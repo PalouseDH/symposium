@@ -11,4 +11,4 @@ header:
   cta2_url: "https://cdsc.libraries.wsu.edu/research/summer-fellows-projects/"
 excerpt: "Apply to be a part of the first annual shared DH symposium in the Palouse!"
 ---
-
+Applications are now closed. Please check back next spring for more information. 

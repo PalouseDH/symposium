@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Apply"
     url: /apply/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Fellows"
+    url: /fellows/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
