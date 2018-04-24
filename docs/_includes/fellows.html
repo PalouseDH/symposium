@@ -1,8 +1,10 @@
 {% assign fellows = site.data.fellows | sort: "name" %}{% for fellow in fellows %}
+<div style="clear:both"></div>
 <img src="{{site.baseurl}}/assets/images/{{fellow.image}}" style="float:right; margin:20px 0px 20px 20px;max-width:180px;"/>
 <h2>{{fellow.name}}</h2>
 
 <h4>{{fellow.title}} <br/> {{fellow.school}}</h4>
 <h3>{{fellow.project}}</h3>
 <p>{{fellow.projectdescription}}</p>
+<div style="clear:both"></div>
 <hr />{%endfor%}
