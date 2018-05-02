@@ -1,0 +1,12 @@
+{% assign instructors = site.data.instructors | sort: "name" %}
+{% for instructor in instructors %}
+<div style="clear:both"></div>
+<img src="{{site.baseurl}}/assets/images/{{instructor.image}}" style="float:right; margin:20px 0px 20px 20px;max-width:180px;"/>
+<h2>{{instructor.name}}</h2>
+
+<h4>{% assign titles = instructor.title | split: ";" %}
+    {% for title in titles %}{{title}}<br/>{%endfor%}<br/> {{instructor.school}}</h4>
+
+<p>{{instructor.bio}}</p>
+<div style="clear:both"></div>
+<hr />{%endfor%}

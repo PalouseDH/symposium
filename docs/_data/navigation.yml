@@ -6,6 +6,8 @@ main:
     url: /apply/
   - title: "Fellows"
     url: /fellows/
+  - title: "Instructors"
+    url: /instructors/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
