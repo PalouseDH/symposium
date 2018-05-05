@@ -1,8 +1,10 @@
 # Archives and Collections: Access and Ethics
 
 > Tuesday, May 15th, CDSC
+> 
+> Outlines: [0](day-0.md) | [1](day-1.md) | [2](day-2.md) | [3](day-3.md) | [4](day-4.md) | [5](day-5.md)
 
-Objectives:
+## Objectives
 
 - Ethics in digital systems, working with digital archives and communities
 - community, collaboration
@@ -13,7 +15,7 @@ Objectives:
 **Morning** 
 
 - Mukurtu introduction
-- Mukurtu 3Cs, DH, CR, user roles
+- Mukurtu hands-on: 3Cs, DH, CR, user roles
 
 **Afternoon**
 

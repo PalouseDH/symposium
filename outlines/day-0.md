@@ -1,12 +1,15 @@
 # Day Zero: Introductions
 
 > Friday, May 11th, 1:00pm - 4:00pm, CDIL.
+> 
+> Outlines: [0](day-0.md) | [1](day-1.md) | [2](day-2.md) | [3](day-3.md) | [4](day-4.md) | [5](day-5.md)
 
-Outline: 
+## Overview 
 
-- Introductions
-- Logistics and overview of themes
-- Planning for pitches
+- Welcome, Introductions, and Logistics
+- Overview of Symposium Themes and Goals
+- Planning for Project Pitches
+- Icebreaker Activity: Physical Computing
 - Tech setup session
 
 ## Pitches

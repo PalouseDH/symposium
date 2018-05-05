@@ -1,5 +1,7 @@
 # Palouse Digital Scholarship Symposium
 
+Outlines: [0](outlines/day-0.md) | [1](outlines/day-1.md) | [2](outlines/day-2.md) | [3](outlines/day-3.md) | [4](outlines/day-4.md) | [5](outlines/day-5.md)
+
 > A week long DH Symposium sponsored by the [CDSC](https://cdsc.libraries.wsu.edu/) + [CDIL](https://cdil.lib.uidaho.edu/).
 > 
 > May 11th - 18th, 2018
@@ -7,16 +9,20 @@
 
 ## Symposium Schedule & Outlines
 
-- Friday, [Day Zero: Introductions](outlines/day-0.md), CDIL
-- Monday, [From Physical to Digital: Data and Digitization](outlines/day-1.md), CDIL
-- Tuesday, [Archives and Collections: Access and Ethics](outlines/day-2.md), CDSC
-- Wednesday, [Web Publishing and Literacy](outlines/day-3.md), CDSC
-- Thursday, [Digital Scholarship: Text and Data Analysis](outlines/day-4.md), CDIL
-- Friday, [Digital Pedagogy and Summer Fellows Pitch Presentations](outlines/day-5.md), CDSC
+| Date | Focus | Location |
+| --- | --- | --- |
+| Friday | [Day Zero: Introductions](outlines/day-0.md) | CDIL |
+| Monday | [From Physical to Digital: Data and Digitization](outlines/day-1.md) | CDIL |
+| Tuesday | [Archives and Collections: Access and Ethics](outlines/day-2.md) | CDSC |
+| Wednesday | [Web Publishing and Literacy](outlines/day-3.md) | CDSC |
+| Thursday | [Digital Scholarship: Text and Data Analysis](outlines/day-4.md) | CDIL |
+| Friday | [Digital Pedagogy and Summer Fellows Pitch Presentations](outlines/day-5.md) | CDSC |
 
 ## Information
 
 - [Symposium bibliography](notes/symposium-bibliography.md)
+- [Fellows](https://palousedh.github.io/symposium/fellows/)
+- [Instructors](https://palousedh.github.io/symposium/instructors/)
 
 ### Parking
 
