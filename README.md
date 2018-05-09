@@ -24,7 +24,7 @@ Outlines: [0](outlines/day-0.md) | [1](outlines/day-1.md) | [2](outlines/day-2.m
 - [Fellows](https://palousedh.github.io/symposium/fellows/)
 - [Instructors](https://palousedh.github.io/symposium/instructors/)
 
-### Parking
+## Parking
 
 **University of Idaho:**
 Participants will be able to park for free in any Red or Blue lot on the UI campus during the week. 
@@ -34,27 +34,27 @@ There are metered spots near the library and up the hill marked with a green lin
 **Washington State University:**
 There is a mix of parking on campus, paid and free. 
 Please see the [parking map](https://map.wsu.edu/t/53025DD3). 
-Parking near the library is expensive (about $16 for the day) so you’ll probably want to park a bit further away and walk over the the CDSC.
+Parking near the library is expensive (about $16 for the day) so you’ll probably want to park a bit further away and walk over to the CDSC.
 
-_Parking Reciprocity_
+### Parking Reciprocity
 
 **UI to WSU**
  
-Gold, Lot Specific Gold, Reserved: Valid in WSU Yellow, Red, and Blue Zones
-Red: Valid in Blue Zones
-Residential: Valid in Blue Zones
-Blue: Valid in Blue Zones
-Disability: Valid in all Disability spaces, lots, timed spaces, walk way spaces, and meters
+- Gold, Lot Specific Gold, Reserved: Valid in WSU Yellow, Red, and Blue Zones
+- Red: Valid in Blue Zones
+- Residential: Valid in Blue Zones
+- Blue: Valid in Blue Zones
+- Disability: Valid in all Disability spaces, lots, timed spaces, walk way spaces, and meters
 
 
 **WSU to UI**
  
-Green: Valid in UI Gold, Red, and Blue lots
-Orange: Valid in UI Gold, Red, and Blue lots
-Yellow: Valid in UI Red and Blue lots
-Red: Valid in Red and Blue
-Gray: Valid in Red and Blue
-Crimson: Valid in Red and Blue
-Blue: Valid in Blue
-Disability: Valid in all Disability spaces, lots, timed spaces, walkway spaces, and meters. 
+- Green: Valid in UI Gold, Red, and Blue lots
+- Orange: Valid in UI Gold, Red, and Blue lots
+- Yellow: Valid in UI Red and Blue lots
+- Red: Valid in Red and Blue
+- Gray: Valid in Red and Blue
+- Crimson: Valid in Red and Blue
+- Blue: Valid in Blue
+- Disability: Valid in all Disability spaces, lots, timed spaces, walkway spaces, and meters. 
 
