@@ -11,12 +11,12 @@ Outlines: [0](outlines/day-0.md) | [1](outlines/day-1.md) | [2](outlines/day-2.m
 
 | Date | Focus | Location |
 | --- | --- | --- |
-| Friday | [Day Zero: Introductions](outlines/day-0.md) | CDIL |
-| Monday | [From Physical to Digital: Data and Digitization](outlines/day-1.md) | CDIL |
-| Tuesday | [Archives and Collections: Access and Ethics](outlines/day-2.md) | CDSC |
-| Wednesday | [Web Publishing and Literacy](outlines/day-3.md) | CDSC |
-| Thursday | [Digital Scholarship: Text and Data Analysis](outlines/day-4.md) | CDIL |
-| Friday | [Digital Pedagogy and Summer Fellows Pitch Presentations](outlines/day-5.md) | CDSC |
+| Fri | [Day Zero: Introductions](outlines/day-0.md) | CDIL |
+| Mon | [From Physical to Digital: Data and Digitization](outlines/day-1.md) | CDIL |
+| Tue | [Archives and Collections: Access and Ethics](outlines/day-2.md) | CDSC |
+| Wed | [Web Publishing and Literacy](outlines/day-3.md) | CDSC |
+| Thu | [Digital Scholarship: Text and Data Analysis](outlines/day-4.md) | CDIL |
+| Fri | [Digital Pedagogy and Summer Fellows Pitch Presentations](outlines/day-5.md) | CDSC |
 
 ## Information
 
