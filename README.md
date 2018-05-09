@@ -36,7 +36,7 @@ There is a mix of parking on campus, paid and free.
 Please see the [parking map](https://map.wsu.edu/t/53025DD3). 
 Parking near the library is expensive (about $16 for the day) so you’ll probably want to park a bit further away and walk over the the CDSC.
 
-####Parking Reciprocity
+_Parking Reciprocity_
 
 **UI to WSU**
  
