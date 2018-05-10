@@ -21,7 +21,7 @@ Sections:
 - Focus/problem
 - Environmental scan
 - Project Description
-- Sustainability (digital preservation)
+- Sustainability (project scope and digital preservation)
 
 ## Physical Computing and Intro to Code
 

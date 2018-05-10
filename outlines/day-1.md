@@ -6,7 +6,7 @@
 
 ## Objectives
 
-- Critical understanding of digitization workflows.
+- Critical understanding of digitization workflows and standards.
 - Digital literacy to work with digital files and data.
 - Understand and create metadata.
 - Create a digital collection.
@@ -21,6 +21,6 @@
 
 **Afternoon**
 
-- Create pages-collection
+- Create [pages-collection](https://github.com/uidaholib/pages-collection)
+    - A Jekyll project to generate a free and simple digital collection site using gh-pages, a csv of metadata, and a folder of JPEG images. A prototype for our new project [CollectionBuilder](https://collectionbuilder.github.io/).
 - Visualizing collections
-- Field trip: UI Special Collections and Archives (time permitting)
