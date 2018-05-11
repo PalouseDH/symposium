@@ -119,6 +119,7 @@ Good options:
 - Install Git, see [Get-Git prep](https://evanwill.github.io/get-git/0-prep.html).
 - Create a repository for your pitch and share with team?
 - Markdown (time permitting), [Markdown in a Minute](https://evanwill.github.io/_drafts/notes/markdown-minute.html).
+- XKCD Comic about [Git] (https://xkcd.com/1597/). 
 
 **Resources**
 
