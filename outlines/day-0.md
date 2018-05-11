@@ -14,14 +14,38 @@
 
 # Pitches
 
-Pairs
+Digital scholarship is by nature collaborative and it is often project-based.
+During the symposium project teams will work together to define a project pitch--a well-articulated idea for a digital scholarship project that engages with the tools, methods, theories and practices discussed during the week.
+On the final day of the symposium project teams will have 15 minutes to pitch their project to the group and a set of interested audience members from UI and WSU.
+
+Pairs.
 
 Pitch template:
 
-- Focus/problem
-- Environmental scan
-- Project Description
-- Sustainability (project scope and digital preservation)
+- **Focus: Challenge, Problem or Issue**
+  - Digital scholarship addresses specific needs, challenges, issues or problems.
+    - What set of challenges does your project meet?
+    - What question is your project trying to answer?
+    - What issue does your project engage with?
+- **Proposed Solution or Template**
+  - There is no one way to address a set of questions, but there is your way! How will you go about solving the problem or engaging with the question?
+    - building a new tool
+    - creating a different platform
+    - producing a new set of workflows
+    - linking together content in new ways
+- **Environmental scan**
+  - Chances are other people have had similar challenges or are tackling similar or related problems or issues. An environmental scan is a detailed look at:
+    - Work-to-date that deals with your topic (i.e.—has a similar focus, set of inquiries or shares similar content)
+    - Tools that engage with your problem/solution
+    - Similar projects
+  - Your pitch should engage with at least 3
+- **Project Description**
+  - This is your elevator speech, or your brief abstract that you will use to hook people in whether they be funders, stakeholders or potential collaborators.
+- **Sustainability** (project scope and digital preservation)
+  - All digital scholarship must engage with the question of sustainability.
+    - Who or what institution will host your project? Is there a cost?
+    - What tools or infrastructure is needed to maintain your project?
+    - What might be the needs in five years for people to continue to use, engage with or build on your project?
 
 # Physical Computing and Intro to Code
 
@@ -39,7 +63,7 @@ Objectives:
 - What is a computer? Compare microcontroller ([Arduino](https://www.arduino.cc/)), minicomputer ([Raspberry Pi](https://www.raspberrypi.org/)), desktop computer, vs. server.
 - What is code? Plain text, text editor, IDE.
 - Free and open source software and hardware.
-- Learning opportunities: active, project based learning, "media computing"; digital literacy; computational thinking.
+- Teaching & learning opportunities: Pair programming, Media Computation, and Peer Instruction. Active, collaborative learning with realistic, meaningful project based learning improves outcomes when teaching tech.
 
 **Resources**
 
@@ -56,6 +80,7 @@ Objectives:
   - [Garnet Hertz](http://conceptlab.com/)
   - [Roger Whitson](http://www.rogerwhitson.net/critical-making/?page_id=52)
 - FSF, [What is Free Software?](https://www.gnu.org/philosophy/free-sw.en.html)
+- Leo Porter, Mark Guzdial, Charlie McDowell, and Beth Simon, “Success in Introductory Programming: What Works?” Communications of the ACM 56, 8 (2013), [DOI:10.1145/2492007.2492020](https://doi.org/10.1145/2492007.2492020).
 
 # Tech Setup Session
 
