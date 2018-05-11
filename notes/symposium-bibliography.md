@@ -6,6 +6,7 @@
 
 - Matt Ratto, "Critical Making: Conceptual and Material Studies in Technology and Social Life", *Information Society* 27 (2011). DOI:[10.1080/01972243.2011.583819](http://dx.doi.org/10.1080/01972243.2011.583819))
 - Alexey Zagalsky, [Why you should use GitHub: Lessons for the classroom and newsroom](http://www.storybench.org/use-github-lessons-classroom-newsroom/), Storybench, Sept 29, 2015.
+- Leo Porter, Mark Guzdial, Charlie McDowell, and Beth Simon, “Success in Introductory Programming: What Works?” Communications of the ACM 56, 8 (2013), [DOI:10.1145/2492007.2492020](https://doi.org/10.1145/2492007.2492020).
 
 ## Books:
 
