@@ -33,3 +33,19 @@ This is a prototype for our new project [CollectionBuilder](https://collectionbu
 4. [configure site](https://github.com/uidaholib/pages-collection/blob/master/docs/04-configure.md) (Jekyll, YAML, `_config.yml`)
 5. [configure navigation and pages](https://github.com/uidaholib/pages-collection/blob/master/docs/05-pages.md)
 6. add [descriptive content](https://github.com/uidaholib/pages-collection/blob/master/docs/06-content.md) (Markdown)
+
+### The Web
+
+Idealistic Canadian video: [How Does the Internet Work ?](https://youtu.be/i5oe63pOhLI)
+
+A network is two or more computers connected.
+The internet is network of networks.
+
+What's in a URL:
+- https://example.com/about?key=value#anchor
+- protocol + domain name (or IP, optional port :80) + path + query / parameters + fragment/anchor
+
+Demo IP addresses:
+- `ping www.google.com`
+- `nslookup www.lib.uidaho.edu`
+- traceroute / tracert / tracepath `tracepath www.google.com`
