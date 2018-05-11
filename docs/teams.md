@@ -9,33 +9,34 @@ header:
 # Teams
 
 ## Team Steptoe
+
+<h2 id="team-steptoe">Team Steptoe</h2>
 <div style="width:48%;float:left;">
-<img src="" id="teamwsu0" style="width:200px;">
+<img src="turpin.jpg" id="teamwsu0" style="width:200px;" />
 </div>
 <div style="width:48%;float:left;">
-<img src="" id="teamui0" style="width:200px;">
+<img src="sun.jpg" id="teamui0" style="width:200px;" />
 </div>
 <div style="clear:both;"></div>
 <hr />
 
-## Team Kamiak
+<h2 id="team-kamiak">Team Kamiak</h2>
 <div style="width:48%;float:left;">
-<img src="" id="teamwsu1" style="width:200px;">
+<img src="gillreath-brown.jpg" id="teamwsu1" style="width:200px;" />
 </div>
 <div style="width:48%;float:left;">
-<img src="" id="teamui1" style="width:200px;">
+<img src="nelson.jpg" id="teamui1" style="width:200px;" />
 </div>
 
 <div style="clear:both;"></div>
 <hr />
-## Team Tomer
+
+<h2 id="team-tomer">Team Tomer</h2>
 <div style="width:48%;float:left;">
-<img src="" id="teamwsu2"  style="width:200px;">
+<img src="fournier.jpg" id="teamwsu2" style="width:200px;" />
 </div>
 <div style="width:48%;float:left;">
-<img src="" id="teamui2" style="width:200px;">
+<img src="campbell.jpg" id="teamui2" style="width:200px;" />
 </div>
 <div style="clear:both;"></div>
 <hr />
-
-{% include js/teams.html %}
