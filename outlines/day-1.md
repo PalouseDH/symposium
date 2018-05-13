@@ -17,7 +17,8 @@
 
 - Handling materials
 - Scanning
-- Photoshop
+- Photoshop (free alternative [GIMP](https://www.gimp.org/))
+- [ImageMagick](https://www.imagemagick.org/) to create access JPEG and thumbs.
 - Metadata
 
 *Outcome: folder of jpgs, csv of metadata (i.e. collection as data).*

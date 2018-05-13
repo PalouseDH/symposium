@@ -28,6 +28,7 @@ ed. Kevin Kee (University of Michigan Press, 2014), [DOI:10.3998/dh.12544152.000
 - [Physical Computing + Fabrication](https://github.com/uvicmakerlab/dhsi2016/blob/master/index.md), DHSI 2016.
 - Dennis Tenen and Grant Wythoff, [Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown), *Programming Historian* (2014).
 - Miriam Posner [Cytoscape tutorials](https://github.com/miriamposner/cytoscape_tutorials) (2016), DOI:10.5281/zenodo.56245. (tutorials for classroom, shared in easy format to re-use)
+- Scott Weingart, [Teaching yourself to code in DH](http://scottbot.net/teaching-yourself-to-code-in-dh/) (good list of DH friendly intro coding resources).
 
 ## Courses / Syllabi:
 
