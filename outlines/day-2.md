@@ -14,8 +14,20 @@
 
 **Morning** 
 
-- Mukurtu introduction
-- Mukurtu hands-on: 3Cs, DH, CR, user roles
+- Mukurtu introduction (setting up the problem)
+- Mukurtu 3Cs introduction
+  - Activity: Mukurtu 3Cs planning
+
+- 3Cs demo
+  - Activity: Create 3Cs
+  - [http://cdsc.libraries.wsu.edu/PalouseDH/](http://cdsc.libraries.wsu.edu/PalouseDH/)
+
+- Mukurtu Digital Heritage Items demo
+  - Activity: Create DH items
+  - Activity: Create Collections
+
+- Mukurtu User Roles introduction
+  - Activity: Mukurtu User Roles Planning
 
 **Afternoon**
 
