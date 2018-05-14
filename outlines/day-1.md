@@ -83,14 +83,13 @@ Static vs. dynamic web.
 
 Build a collection: 
 
-1. create collection project repository (GitHub)
-2. get [symposium data](https://github.com/PalouseDH/symposium-data). add your collection objects (`objects/` and `objects/thumbs/`) and metadata (`_data/metadata.csv`).
-4. edit the site configuration (Jekyll, YAML, `_config.yml`)
-5. activate gh-pages (GitHub repo > Settings > GitHub Pages > Source > Master)
-6. edit content pages: 
+1. create a new repository on GitHub for your collection projec, by "Importing" [pages-collection-template](https://github.com/uidaholib/pages-collection-template).
+2. edit the site configuration with your information (Jekyll, YAML, `_config.yml`)
+3. activate gh-pages (GitHub repo > Settings > GitHub Pages > Source > Master)
+4. edit content pages: 
     - `index.md` (featured-image, featured-subjects, featured-places)
-    - `about.md` (content)
-    - `map.md` (mapcenter, zoom)
+    - `pages/about.md` (content)
+    - `pages/map.md` (mapcenter, zoom)
     - add a screenshot of your map area as `objects/map.jpg`, which will appear in the locations section of the index page.
 
 ## The Web Orientation
