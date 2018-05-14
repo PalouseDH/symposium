@@ -44,22 +44,26 @@ Brief overview of [Digital Intiatives](https://www.lib.uidaho.edu/digital/)
 - In the end though: Metadata should be about the user, not the standard, schema, ontology, vocabulary, etc. 
     - *singularity note: more and more the user is a computer*
 
-[Subject](http://www.getty.edu/research/tools/vocabularies/aat/)
-
-[Format](https://mwdl.org/docs/format_values.txt)
-
-[Type](https://mwdl.org/docs/AAT_subset.txt)
-
 Idiosyncratic --> Standardized: [Idaho in DPLA](https://dp.la/search?q=Idaho)
 
 Resources: Some profiles [Digital Public Library of America](https://pro.dp.la/hubs/metadata-application-profile) | [Orbis Cascade Alliance](https://www.orbiscascade.org/dublin-core-best-practices/). 
 Some more on [metadata](https://dpla.wpengine.com/wp-content/uploads/2018/01/PLPP_Using-Metadata_FINAL.pdf) + [dublin core](https://github.com/dcmi/repository/blob/master/mediawiki_wiki/User_Guide.md). 
 
+#### Digitize project hands-on
+
 Pair up! [Random Team Generator](https://palousedh.github.io/symposium/fellows/)
 
 Take a look at [metadata fields](https://docs.google.com/spreadsheets/d/1v-17Tn3KVNXR_bvqYf-_1y2VRIjKVvySeJLPY7X1ebA/edit?usp=sharing) for project. 
 
+Resources for creating metadata in this project:
+
+- [Subject](http://www.getty.edu/research/tools/vocabularies/aat/)
+- [Format](https://mwdl.org/docs/format_values.txt)
+- [Type](https://mwdl.org/docs/AAT_subset.txt)
+
 *Outcome: folder of jpgs, csv of metadata (i.e. collection as data).*
+
+Transforming and cleaning metadata? Use [OpenRefine](http://openrefine.org/)!
 
 ## Afternoon
 
