@@ -14,10 +14,12 @@
 
 **Morning** 
 
+9-10
 - Mukurtu introduction (setting up the problem)
 - Mukurtu 3Cs introduction
   - Activity: Mukurtu 3Cs planning
 
+10-11:30
 - 3Cs demo
   - Activity: Create 3Cs
   - [http://cdsc.libraries.wsu.edu/PalouseDH/](http://cdsc.libraries.wsu.edu/PalouseDH/)
@@ -26,11 +28,26 @@
   - Activity: Create DH items
   - Activity: Create Collections
 
+11:30-12:00
 - Mukurtu User Roles introduction
   - Activity: Mukurtu User Roles Planning
 
 **Afternoon**
 
-- Mukurtu Project arc
-- TK, SHN, TDSCP, PPWP
-- Group work time
+1-1:30
+- Community driven development
+- Mukurtu Project “how’d they do that” project arc
+
+1-2
+- Advanced Features demo
+  - Community Records
+  - Dictionary
+  - Person Records and Media Content Warnings
+
+2-3
+- Batch Import demo
+  - Activity: Batch Import (basic)
+- Mukurtu work time
+
+3-4
+- Projec Pitch work time
