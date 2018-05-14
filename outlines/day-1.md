@@ -84,7 +84,7 @@ Static vs. dynamic web.
 Build a collection: 
 
 1. create collection project repository (GitHub)
-2. add your collection objects (`objects/` and `objects/thumbs/`) and metadata (`_data/metadata.csv`).
+2. get [symposium data](https://github.com/PalouseDH/symposium-data). add your collection objects (`objects/` and `objects/thumbs/`) and metadata (`_data/metadata.csv`).
 4. edit the site configuration (Jekyll, YAML, `_config.yml`)
 5. activate gh-pages (GitHub repo > Settings > GitHub Pages > Source > Master)
 6. edit content pages: 
