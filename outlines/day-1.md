@@ -60,6 +60,7 @@ Resources for creating metadata in this project:
 - [Subject](http://www.getty.edu/research/tools/vocabularies/aat/)
 - [Format](https://mwdl.org/docs/format_values.txt)
 - [Type](https://mwdl.org/docs/AAT_subset.txt)
+- [Latitude Longitude](https://itouchmap.com/latlong.html)
 
 *Outcome: folder of jpgs, csv of metadata (i.e. collection as data).*
 
