@@ -12,20 +12,24 @@ Once you get the hang of it, you can use it directly to do a lot of interesting 
 
 ## Install ImageMagick
 
-Install ImageMagick and Ghostscript (which enables it to work with PDFs).
-Setup is easy on Linux, however, it will likely be a legacy version (see note above):
-
-- Ubuntu: `sudo apt install imagemagick ghostscript`.
-- Fedora: `sudo dnf install ImageMagick ghostscript`.
+[Install ImageMagick](http://www.imagemagick.org/script/download.php) (if you want to work with PDFs you will also need to install [Ghostscript](https://www.ghostscript.com/download/gsdnld.html) ).
 
 On Windows:
 
 1. Download the [ImageMagick installer](http://www.imagemagick.org/script/download.php#windows).
 2. Run the installer with default options.
-3. Download the [Ghostscript installer](https://www.ghostscript.com/download/gsdnld.html) (you probably want the AGPL Windows 64 bit version).
-4. Run the installer with default options.
 
-Also on Windows, if you want to follow the commands in this note, be sure to have a bash terminal, such as Git Bash (packaged with [Git installer](https://git-scm.com/)) or [Cmder](https://evanwill.github.io/_drafts/notes/cmdr.html).
+On Mac: 
+
+Easy if you have MacPorts or Brew, `sudo port install ImageMagick`.
+More complex if you want to [do it manually](http://www.imagemagick.org/script/download.php#macosx).
+
+On Linux: 
+
+Easy setup, however, it will likely be a legacy version (see note above).
+
+- Ubuntu: `sudo apt install imagemagick ghostscript`.
+- Fedora: `sudo dnf install ImageMagick ghostscript`.
 
 ## Using ImageMagick
 
