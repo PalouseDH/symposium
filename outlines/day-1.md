@@ -21,22 +21,22 @@
 Trevor Bond and Erin Stoddart will be providing us with some material to scan and describe. Each will give a brief overview of the items and on their work generally.
 
 ### Scanning
-    - Hardware
-    - Standards        
-        - Leave the TIFF alone
-        - [Archival Formats](https://orbiscascadeccd.github.io/digprezsteps/formats.html)
+- Hardware
+- Standards        
+    - Leave the TIFF alone
+    - [Archival Formats](https://orbiscascadeccd.github.io/digprezsteps/formats.html)
 ### Image Processing
-    - Photoshop (free alternative [GIMP](https://www.gimp.org/))
-    - [ImageMagick](https://www.imagemagick.org/) to create access JPEG and thumbs.
-    - batch processes are your friend
+- Photoshop (free alternative [GIMP](https://www.gimp.org/))
+- [ImageMagick](https://www.imagemagick.org/) to create access JPEG and thumbs.
+- batch processes are your friend
 
 ### Metadata
-    - standards - [Dublin Core - Original 15](https://en.wikipedia.org/wiki/Dublin_Core#Dublin_Core_Metadata_Element_Set)
-        - [Something I worked on a long time ago](http://jennriley.com/metadatamap/seeingstandards.pdf)
-    - controlled vocabularies 
-    - application profiles (i.e. standards + vocabs)
-    - In the end though: Metadata should be about the user, not the standard, schema, ontology, vocabulary, etc. 
-        - *singularity note: more and more the user is a computer*
+- standards - [Dublin Core - Original 15](https://en.wikipedia.org/wiki/Dublin_Core#Dublin_Core_Metadata_Element_Set)
+    - [Something I worked on a long time ago](http://jennriley.com/metadatamap/seeingstandards.pdf)
+- controlled vocabularies 
+- application profiles (i.e. standards + vocabs)
+- In the end though: Metadata should be about the user, not the standard, schema, ontology, vocabulary, etc. 
+    - *singularity note: more and more the user is a computer*
 
 Idiosyncratic --> Standardized: [Idaho in DPLA](https://dp.la/search?q=Idaho)
 
