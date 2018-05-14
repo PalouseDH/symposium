@@ -45,6 +45,7 @@ Brief overview of [Digital Intiatives](https://www.lib.uidaho.edu/digital/)
     - *singularity note: more and more the user is a computer*
 
 [Format](https://mwdl.org/docs/format_values.txt)
+
 [Type](https://mwdl.org/docs/AAT_subset.txt)
 
 Idiosyncratic --> Standardized: [Idaho in DPLA](https://dp.la/search?q=Idaho)
