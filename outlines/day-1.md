@@ -44,6 +44,8 @@ Brief overview of [Digital Intiatives](https://www.lib.uidaho.edu/digital/)
 - In the end though: Metadata should be about the user, not the standard, schema, ontology, vocabulary, etc. 
     - *singularity note: more and more the user is a computer*
 
+[Subject](http://www.getty.edu/research/tools/vocabularies/aat/)
+
 [Format](https://mwdl.org/docs/format_values.txt)
 
 [Type](https://mwdl.org/docs/AAT_subset.txt)
