@@ -22,7 +22,7 @@
 10-11:30
 - 3Cs demo
   - Activity: Create 3Cs
-  - [http://cdsc.libraries.wsu.edu/PalouseDH/](http://cdsc.libraries.wsu.edu/PalouseDH/)
+  - [Set your password!](http://cdsc.libraries.wsu.edu/PalouseDH/user/password) (usernames are firstinitiallastname, eg: mwynne)
   - [Getting Started with Mukurtu CMS](http://support.mukurtu.org/customer/en/portal/articles/2794448-getting-started-with-mukurtu-cms) (includes links in article)
   - [Creating Categories](http://support.mukurtu.org/customer/en/portal/articles/2432734-how-to-create-categories)
   - [Creating Communities](http://support.mukurtu.org/customer/en/portal/articles/2432702-how-to-create-communities)
