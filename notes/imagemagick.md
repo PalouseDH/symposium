@@ -50,4 +50,4 @@ Check the [commandline options](https://www.imagemagick.org/script/command-line-
 
 - move to objects directory, `cd objects`
 - create thumb folder, `mkdir thumbs`
-- create thumbnails: ``for f in *.jpg; do magick "$f" -resize 300x300 -flatten "thumbs/${f%.jpg}_sm.jpg"; done`
+- create thumbnails: `for f in *.jpg; do magick "$f" -resize 300x300 -flatten "thumbs/${f%.jpg}_sm.jpg"; done`
