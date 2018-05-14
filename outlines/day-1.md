@@ -21,16 +21,20 @@
 Trevor Bond and Erin Stoddart will be providing us with some material to scan and describe. Each will give a brief overview of the items and on their work generally.
 
 ### Scanning
+
 - Hardware
 - Standards        
     - Leave the TIFF alone
     - [Archival Formats](https://orbiscascadeccd.github.io/digprezsteps/formats.html)
+
 ### Image Processing
+
 - Photoshop (free alternative [GIMP](https://www.gimp.org/))
-- [ImageMagick](https://www.imagemagick.org/) to create access JPEG and thumbs.
-- batch processes are your friend
+- [ImageMagick](https://www.imagemagick.org/) to create access JPEG and thumbs: see [ImageMagick activity](notes/imagemagick.md).
+- batch processes are your friend!
 
 ### Metadata
+
 - standards - [Dublin Core - Original 15](https://en.wikipedia.org/wiki/Dublin_Core#Dublin_Core_Metadata_Element_Set)
     - [Something I worked on a long time ago](http://jennriley.com/metadatamap/seeingstandards.pdf)
 - controlled vocabularies 
@@ -51,17 +55,20 @@ Take a look at [metadata fields](https://docs.google.com/spreadsheets/d/1v-17Tn3
 
 ## Afternoon
 
-Build a digital collection website from your morning data using  [pages-collection](https://github.com/uidaholib/pages-collection), a Jekyll project designed for gh-pages.
+Build a digital collection website from your morning data using  [pages-collection-template](https://github.com/uidaholib/pages-collection-template), a Jekyll project designed for gh-pages.
 This is a prototype for our new project [CollectionBuilder](https://collectionbuilder.github.io/).
 
-1. create [collection project repository](https://github.com/uidaholib/pages-collection/blob/master/docs/01-project.md) (GitHub)
-2. prepare your [collection images and/or pdfs](https://github.com/uidaholib/pages-collection/blob/master/docs/02-objects.md) (ImageMagick)
-3. prepare your [collection metadata](https://github.com/uidaholib/pages-collection/blob/master/docs/03-metadata.md)
-4. [configure site](https://github.com/uidaholib/pages-collection/blob/master/docs/04-configure.md) (Jekyll, YAML, `_config.yml`)
-5. [configure navigation and pages](https://github.com/uidaholib/pages-collection/blob/master/docs/05-pages.md)
-6. add [descriptive content](https://github.com/uidaholib/pages-collection/blob/master/docs/06-content.md) (Markdown)
+1. create collection project repository (GitHub)
+2. add your collection objects (`objects/` and `objects/thumbs/`) and metadata (`_data/metadata.csv`).
+4. edit the site configuration (Jekyll, YAML, `_config.yml`)
+5. activate gh-pages (GitHub repo > Settings > GitHub Pages > Source > Master)
+6. edit content pages: 
+    - `index.md` (featured-image, featured-subjects, featured-places)
+    - `about.md` (content)
+    - `map.md` (mapcenter, zoom)
+    - add a screenshot of your map area as `objects/map.jpg`, which will appear in the locations section of the index page.
 
-### The Web
+## The Web Orientation
 
 Idealistic Canadian video: [How Does the Internet Work ?](https://youtu.be/i5oe63pOhLI)
 
