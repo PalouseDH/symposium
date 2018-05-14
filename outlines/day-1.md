@@ -31,7 +31,7 @@ Trevor Bond and Erin Stoddart will be providing us with some material to scan an
 
 - Photoshop (free alternative [GIMP](https://www.gimp.org/))
 - Access & other copies - The joys of actions and batch processing
-- [ImageMagick](https://www.imagemagick.org/) to create access JPEG and thumbs: see [ImageMagick activity](notes/imagemagick.md).
+- [ImageMagick](https://www.imagemagick.org/) to create access JPEG and thumbs: see [ImageMagick activity](https://github.com/PalouseDH/symposium/blob/master/notes/imagemagick.md).
 
 ### Metadata
 
