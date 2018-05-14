@@ -50,4 +50,4 @@
 - Mukurtu work time
 
 3-4
-- Projec Pitch work time
+- Project Pitch work time
