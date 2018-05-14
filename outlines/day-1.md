@@ -15,10 +15,35 @@
 
 ## Morning
 
+- Introduction to the materials
 - Handling materials
+
+Trevor Bond and Erin Stoddart will be providing us with some material to scan and describe. Each will give a brief overview of the items and on their work generally.
+
 - Scanning
-- Photoshop
+    - Hardware
+    - Standards
+- Image Processing
+    - Software: Photoshop, Gimp
+    - Leave the TIFF alone
+    - batch processes are your friend
 - Metadata
+    - standards - [Dublin Core - Original 15](https://en.wikipedia.org/wiki/Dublin_Core#Dublin_Core_Metadata_Element_Set)
+        - [Something I worked on this a long time ago](http://jennriley.com/metadatamap/seeingstandards.pdf)
+    - controlled vocabularies 
+    - application profiles (i.e. standards + vocabs)
+
+Idiosyncratic --> Standardized
+
+[Idaho in DPLA](https://dp.la/search?q=Idaho)
+
+Some profiles [Digital Public Library of America](https://pro.dp.la/hubs/metadata-application-profile) | [Orbis Cascade Alliance](https://www.orbiscascade.org/dublin-core-best-practices/)
+
+Some more on [metadata](https://dpla.wpengine.com/wp-content/uploads/2018/01/PLPP_Using-Metadata_FINAL.pdf) + [dublin core](https://github.com/dcmi/repository/blob/master/mediawiki_wiki/User_Guide.md). 
+
+Pairs: [Random Team Generator](https://palousedh.github.io/symposium/fellows/)
+
+Take a look at [metadata fields](https://docs.google.com/spreadsheets/d/1v-17Tn3KVNXR_bvqYf-_1y2VRIjKVvySeJLPY7X1ebA/edit?usp=sharing) for project. 
 
 *Outcome: folder of jpgs, csv of metadata (i.e. collection as data).*
 
