@@ -44,6 +44,9 @@ Brief overview of [Digital Intiatives](https://www.lib.uidaho.edu/digital/)
 - In the end though: Metadata should be about the user, not the standard, schema, ontology, vocabulary, etc. 
     - *singularity note: more and more the user is a computer*
 
+[Format](https://mwdl.org/docs/format_values.txt)
+[Type](https://mwdl.org/docs/AAT_subset.txt)
+
 Idiosyncratic --> Standardized: [Idaho in DPLA](https://dp.la/search?q=Idaho)
 
 Resources: Some profiles [Digital Public Library of America](https://pro.dp.la/hubs/metadata-application-profile) | [Orbis Cascade Alliance](https://www.orbiscascade.org/dublin-core-best-practices/). 
