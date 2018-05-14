@@ -97,6 +97,7 @@ Objectives:
   - [Garnet Hertz](http://conceptlab.com/), [Roger Whitson](http://www.rogerwhitson.net/critical-making/?page_id=52)
 - FSF, [What is Free Software?](https://www.gnu.org/philosophy/free-sw.en.html)
 - Leo Porter, Mark Guzdial, Charlie McDowell, and Beth Simon, “Success in Introductory Programming: What Works?” Communications of the ACM 56, 8 (2013), [DOI:10.1145/2492007.2492020](https://doi.org/10.1145/2492007.2492020).
+- Scott Weingart, [Teaching yourself to code in DH](http://scottbot.net/teaching-yourself-to-code-in-dh/) (good list of DH friendly intro coding resources).
 
 # Tech Setup Session
 
@@ -119,7 +120,7 @@ Good options:
 - Install Git, see [Get-Git prep](https://evanwill.github.io/get-git/0-prep.html).
 - Create a repository for your pitch and share with team?
 - Markdown (time permitting), [Markdown in a Minute](https://evanwill.github.io/_drafts/notes/markdown-minute.html).
-- XKCD Comic about [Git](https://xkcd.com/1597/). 
+- XKCD Comic about [Git](https://xkcd.com/1597/).
 
 **Resources**
 

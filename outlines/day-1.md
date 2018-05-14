@@ -21,12 +21,17 @@
 Trevor Bond and Erin Stoddart will be providing us with some material to scan and describe. Each will give a brief overview of the items and on their work generally.
 
 - Scanning
+<<<<<<< HEAD
     - Hardware
     - Standards
 - Image Processing
     - Software: Photoshop, Gimp
     - Leave the TIFF alone
     - batch processes are your friend
+=======
+- Photoshop (free alternative [GIMP](https://www.gimp.org/))
+- [ImageMagick](https://www.imagemagick.org/) to create access JPEG and thumbs.
+>>>>>>> origin/master
 - Metadata
     - standards - [Dublin Core - Original 15](https://en.wikipedia.org/wiki/Dublin_Core#Dublin_Core_Metadata_Element_Set)
         - [Something I worked on this a long time ago](http://jennriley.com/metadatamap/seeingstandards.pdf)
