@@ -20,6 +20,8 @@
 
 Trevor Bond and Erin Stoddart will be providing us with some material to scan and describe. Each will give a brief overview of the items and on their work generally.
 
+Brief overview of [Digital Intiatives](https://www.lib.uidaho.edu/digital/)
+
 ### Scanning
 
 - Hardware
