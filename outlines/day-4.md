@@ -13,8 +13,9 @@
 
 **Morning** 
 
-- Text and Data Analysis discussion
+- Text and Data Analysis discussion (short!)
 - Text visualization tool play time, hands-on with [Voyant Tools](https://voyant-tools.org/)
+- DH projects deconstructions: explore source data, tools, outputs.
 
 **Afternoon**
 

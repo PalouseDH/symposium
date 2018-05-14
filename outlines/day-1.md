@@ -60,6 +60,18 @@ Take a look at [metadata fields](https://docs.google.com/spreadsheets/d/1v-17Tn3
 Build a digital collection website from your morning data using  [pages-collection-template](https://github.com/uidaholib/pages-collection-template), a Jekyll project designed for gh-pages.
 This is a prototype for our new project [CollectionBuilder](https://collectionbuilder.github.io/).
 
+**Use case:**
+`pages-collection` is intended as a simple template for hands-on teaching about digital libraries.
+It can be used in a workshop setting to take participants through digitization and metadata creation, to having a live collection site hosted on GitHub.
+
+> Similar learning experiences use [Omeka](https://omeka.org/) or other DAMS/[CMS](https://en.wikipedia.org/wiki/Content_management_system) platforms that are overkill for one off projects.
+> Although CMS feature familiar GUI administration interfaces, they are not simple to learn and customize.
+> A project in "minimal computing", it provides a depth of learning opportunities, allowing users to take complete ownership over the project and make their work open to the world.
+
+Static vs. dynamic web.
+
+Build a collection: 
+
 1. create collection project repository (GitHub)
 2. add your collection objects (`objects/` and `objects/thumbs/`) and metadata (`_data/metadata.csv`).
 4. edit the site configuration (Jekyll, YAML, `_config.yml`)
