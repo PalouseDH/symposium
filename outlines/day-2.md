@@ -23,10 +23,16 @@
 - 3Cs demo
   - Activity: Create 3Cs
   - [http://cdsc.libraries.wsu.edu/PalouseDH/](http://cdsc.libraries.wsu.edu/PalouseDH/)
+  - [Getting Started with Mukurtu CMS](http://support.mukurtu.org/customer/en/portal/articles/2794448-getting-started-with-mukurtu-cms) (includes links in article)
+  - [Creating Categories](http://support.mukurtu.org/customer/en/portal/articles/2432734-how-to-create-categories)
+  - [Creating Communities](http://support.mukurtu.org/customer/en/portal/articles/2432702-how-to-create-communities)
+  - [Creating Cultural Protocols](http://support.mukurtu.org/customer/en/portal/articles/2432755-how-to-create-cultural-protocols)
 
 - Mukurtu Digital Heritage Items demo
   - Activity: Create DH items
+  - [Creating Digitahl Heritage Items](http://support.mukurtu.org/customer/en/portal/articles/2558808-how-to-create-digital-heritage-items)
   - Activity: Create Collections
+  - [Creating Collections](http://support.mukurtu.org/customer/portal/articles/2558820)
 
 11:30-12:00
 - Mukurtu User Roles introduction
@@ -40,9 +46,9 @@
 
 1-2
 - Advanced Features demo
-  - Community Records
+  - [Community Records](http://support.mukurtu.org/customer/en/portal/articles/2433020-how-to-create-community-records?b_id=633)
   - Dictionary
-  - Person Records and Media Content Warnings
+  - [Person Records and Media Content Warnings](http://support.mukurtu.org/customer/en/portal/topics/1097769-mukurtu-taxonomy-records/articles?b_id=633)
 
 2-3
 - Batch Import demo
