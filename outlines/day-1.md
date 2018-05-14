@@ -21,32 +21,26 @@
 Trevor Bond and Erin Stoddart will be providing us with some material to scan and describe. Each will give a brief overview of the items and on their work generally.
 
 - Scanning
-<<<<<<< HEAD
     - Hardware
-    - Standards
+    - Standards        
+        - Leave the TIFF alone
+        - [Archival Formats](https://orbiscascadeccd.github.io/digprezsteps/formats.html)
 - Image Processing
-    - Software: Photoshop, Gimp
-    - Leave the TIFF alone
+    - Photoshop (free alternative [GIMP](https://www.gimp.org/))
+    - [ImageMagick](https://www.imagemagick.org/) to create access JPEG and thumbs.
     - batch processes are your friend
-=======
-- Photoshop (free alternative [GIMP](https://www.gimp.org/))
-- [ImageMagick](https://www.imagemagick.org/) to create access JPEG and thumbs.
->>>>>>> origin/master
 - Metadata
     - standards - [Dublin Core - Original 15](https://en.wikipedia.org/wiki/Dublin_Core#Dublin_Core_Metadata_Element_Set)
-        - [Something I worked on this a long time ago](http://jennriley.com/metadatamap/seeingstandards.pdf)
+        - [Something I worked on a long time ago](http://jennriley.com/metadatamap/seeingstandards.pdf)
     - controlled vocabularies 
     - application profiles (i.e. standards + vocabs)
 
-Idiosyncratic --> Standardized
+Idiosyncratic --> Standardized: [Idaho in DPLA](https://dp.la/search?q=Idaho)
 
-[Idaho in DPLA](https://dp.la/search?q=Idaho)
-
-Some profiles [Digital Public Library of America](https://pro.dp.la/hubs/metadata-application-profile) | [Orbis Cascade Alliance](https://www.orbiscascade.org/dublin-core-best-practices/)
-
+Resources: Some profiles [Digital Public Library of America](https://pro.dp.la/hubs/metadata-application-profile) | [Orbis Cascade Alliance](https://www.orbiscascade.org/dublin-core-best-practices/). 
 Some more on [metadata](https://dpla.wpengine.com/wp-content/uploads/2018/01/PLPP_Using-Metadata_FINAL.pdf) + [dublin core](https://github.com/dcmi/repository/blob/master/mediawiki_wiki/User_Guide.md). 
 
-Pairs: [Random Team Generator](https://palousedh.github.io/symposium/fellows/)
+Pair up! [Random Team Generator](https://palousedh.github.io/symposium/fellows/)
 
 Take a look at [metadata fields](https://docs.google.com/spreadsheets/d/1v-17Tn3KVNXR_bvqYf-_1y2VRIjKVvySeJLPY7X1ebA/edit?usp=sharing) for project. 
 
