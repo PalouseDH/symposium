@@ -37,6 +37,8 @@
 11:30-12:00
 - Mukurtu User Roles introduction
   - Activity: Mukurtu User Roles Planning
+   - [How do User Roles work?](http://support.mukurtu.org/customer/en/portal/articles/2430079-how-do-user-roles-and-permissions-work-)
+   - [Adding Users to Protocols](http://support.mukurtu.org/customer/en/portal/articles/2559499-how-to-add-users-to-communities-and-cultural-protocols-and-manage-group-roles)
 
 **Afternoon**
 
