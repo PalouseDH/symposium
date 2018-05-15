@@ -30,7 +30,7 @@
 
 - Mukurtu Digital Heritage Items demo
   - Activity: Create DH items
-  - [Creating Digitahl Heritage Items](http://support.mukurtu.org/customer/en/portal/articles/2558808-how-to-create-digital-heritage-items)
+  - [Creating Digital Heritage Items](http://support.mukurtu.org/customer/en/portal/articles/2558808-how-to-create-digital-heritage-items)
   - Activity: Create Collections
   - [Creating Collections](http://support.mukurtu.org/customer/portal/articles/2558820)
 
