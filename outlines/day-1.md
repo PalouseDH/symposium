@@ -93,7 +93,7 @@ Build a collection:
     - add a screenshot of your map area as `objects/map.jpg`, which will appear in the locations section of the index page.
     - `pages/timeline.md` (add years to appear on nav drop down, must match year that appears in the timeline)
 
-Working [demo site](https://uidaholib.github.io/pages-collection-template/).
+**Working [demo site](https://uidaholib.github.io/pages-collection-template/).**
 
 ## The Web Orientation
 
