@@ -87,10 +87,13 @@ Build a collection:
 2. edit the site configuration with your information (Jekyll, YAML, `_config.yml`)
 3. activate gh-pages (GitHub repo > Settings > GitHub Pages > Source > Master)
 4. edit content pages: 
-    - `index.md` (featured-image, featured-subjects, featured-places)
+    - `index.md` (featured-image, featured-subjects, featured-places; look at site data page to download subjects and places csv)
     - `pages/about.md` (content)
     - `pages/map.md` (mapcenter, zoom)
     - add a screenshot of your map area as `objects/map.jpg`, which will appear in the locations section of the index page.
+    - `pages/timeline.md` (add years to appear on nav drop down, must match year that appears in the timeline)
+
+Working [demo site](https://uidaholib.github.io/pages-collection-template/).
 
 ## The Web Orientation
 
