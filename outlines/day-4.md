@@ -14,8 +14,9 @@
 **Morning** 
 
 - Text and Data Analysis discussion (short!)
-- Text visualization tool play time, hands-on with [Voyant Tools](https://voyant-tools.org/)
 - DH projects deconstructions: explore source data, tools, outputs.
+    - Miriam Posner, [How did they make that?](http://miriamposner.com/blog/how-did-they-make-that/).
+- Text visualization tool play time: hands-on with [Voyant Tools](https://voyant-tools.org/)
 
 **Afternoon**
 
