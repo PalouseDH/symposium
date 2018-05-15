@@ -13,6 +13,11 @@
 
 **Morning** 
 
+9am - 11am
+
 - DH Pedagogy discussion
 - Projects Showcase
-- Project Pitch Presentations and Discussion
+
+11am - 1pm
+
+- Project Pitches: Presentations and Discussion
