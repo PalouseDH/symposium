@@ -8,7 +8,7 @@
 
 - Ethics in digital systems, working with digital archives and communities
 - community, collaboration
-- understand TK, SHN, TDSCP, PPWP
+- Using Mukurtu CMS
 
 ## Outline: 
 
@@ -43,8 +43,7 @@
 **Afternoon**
 
 1-1:30
-- Community driven development
-- Mukurtu Project “how’d they do that” project arc
+- User Roles
 
 1-2
 - Advanced Features demo
