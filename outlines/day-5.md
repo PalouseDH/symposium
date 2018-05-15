@@ -12,8 +12,8 @@
 ## Outline
 
 **Morning** 
-900-1100am
 
+900-1100am
 - DH Pedagogy discussion
 - Projects Showcase
 
