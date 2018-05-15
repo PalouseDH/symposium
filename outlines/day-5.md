@@ -12,7 +12,10 @@
 ## Outline
 
 **Morning** 
+900-1100am
 
 - DH Pedagogy discussion
 - Projects Showcase
+
+1100-100pm
 - Project Pitch Presentations and Discussion
