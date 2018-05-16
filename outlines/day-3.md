@@ -31,6 +31,8 @@
 
 **Afternoon**
 
+- Mid-week check in. 
+
 - Embedding on the web, hands-on with [Knightlab tools](https://knightlab.northwestern.edu/projects/)
 - DH Communities, projects, and directories (prep for day 4 discussion)
     - [Photogrammar](http://photogrammar.yale.edu/)
