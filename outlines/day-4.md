@@ -23,9 +23,6 @@
     - Quick discussion available tools that y'all are using or can be used to visualize or analyze data
         - [Voyant Tools](https://voyant-tools.org/)
         - [AntCon](http://www.laurenceanthony.net/)
-        - [Natural Language Toolkit (Python Libraries -- Advanced!)](http://www.nltk.org/install.html)
-        - [Tidy Text Mining in R](https://www.tidytextmining.com/index.html
-        - [R Studio an R IDE](https://github.com/rstudio/rstudio)
         - A more complete list at Western Michigan University Libraries: [Digital Humanities: Text Analysis & Data Mining Tools]   (http://libguides.wmich.edu/digitalhumanities/tools)
         
     - Introductory hands-on with [Voyant Tools](https://voyant-tools.org/)
