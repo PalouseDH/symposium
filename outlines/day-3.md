@@ -34,7 +34,27 @@
 - Mid-week check in. 
 
 - Embedding on the web, hands-on with [Knightlab tools](https://knightlab.northwestern.edu/projects/)
-- DH Communities, projects, and directories (prep for day 4 discussion)
+    - [Data from our collections](https://dcnb.github.io/pulsesoup/data/)
+
+ TimelineJS Steps
+ 1. Download data by pushing the download button on the top right of the page, then clicking the "Timelinejs csv" button
+ 2. Upload the csv into Google Drive
+ 3. Find the csv file in your drive (can hit the magnifying glass after upload), right click on it, open the csv with Google Sheets
+ 4. Make some edits to the content
+    - At the very least delete the two rows that have no date in them. 
+    - Suggested: eliminate all but a few related items and add to the 
+ 5. Follow [instructions via knightlab](https://timeline.knightlab.com/#make)
+    - Click the File menu button at the top of the page, then click "Publish to the Web"
+    - On the following pop-up, click "Publish", then click OK on the next "sure you want to do this" dialog, then close the dialog
+    - Copy the url for your google sheet from your browser (do not copy the url provided by the dialog)
+    - paste it into the [knightlab site](https://timeline.knightlab.com/#make)
+    - SEE WHAT YOU HAVE WROUGHT!
+ 6. Go to the knightlab site's step 4 and copy the embed link
+ 7. Go to your digital collection website on github (mine is pulsesoup)
+ 8. Paste that code right below the second "---" in the "_layouts/timeline.html" file.
+ 9. Check out your site to see how if it's working. 
+
+### DH Projects 
     - [Photogrammar](http://photogrammar.yale.edu/)
         - [Explorer](http://photogrammar.yale.edu/labs/crossfilter/california/)
     - [Kindred Britain](http://kindred.stanford.edu/#)
