@@ -17,6 +17,9 @@
 - Web publishing discussion
 - Platform introductions and considerations
 - Scalar hands-on
+    - [https://cdsc.libraries.wsu.edu/scalar/](https://cdsc.libraries.wsu.edu/scalar/)
+    - username == email address
+    - password == changeme
 
 **Afternoon**
 
