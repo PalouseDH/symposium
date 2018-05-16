@@ -29,7 +29,7 @@
         - A more complete list at Western Michigan University Libraries: [Digital Humanities: Text Analysis & Data Mining Tools]   (http://libguides.wmich.edu/digitalhumanities/tools)
         
     - Introductory hands-on with [Voyant Tools](https://voyant-tools.org/)
-        - Great introductory session targeted for use and completion within one class period from UT     
+        - We will be following the outline from UT Austin.  Great introductory session targeted for use and completion within one class period from UT     
     [Austin](https://www.dwrl.utexas.edu/2016/11/29/voyant-for-text-analysis/)
     - Before we get started go grab a dataset!
         - [Natural Language Toolkit Corpora](http://www.nltk.org/nltk_data/)
