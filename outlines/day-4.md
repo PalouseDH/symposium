@@ -14,11 +14,30 @@
 **Morning** 
 
 - Text and Data Analysis discussion (short!)
-- DH projects deconstructions: explore source data, tools, outputs.
-    - Miriam Posner, [How did they make that?](http://miriamposner.com/blog/how-did-they-make-that/).
+    - structured data vs. unstructured data
+    - OCR    
+- DH projects deconstructions: explore source data, people, tools, outputs.
+    - Miriam Posner, [How did they make that?](http://miriamposner.com/blog/how-did-they-make-that/). 
+    - DH Commons: [How did they make that? Programming Historian](http://dhcommons.org/journal/issue-1/editorial-sustainability-and-open-peer-review-programming-historian).
 - Text visualization tool play time: hands-on with [Voyant Tools](https://voyant-tools.org/)
 
 **Afternoon**
 
 - Group work time
 - Field trip: VR demos (time permitting)
+
+
+## Resources 
+
+- Ted Underwood: 
+    - ["Seven Ways Humanists are Using Computers to Understand Text"](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) (2015). (intro overview of types of computational analysis)
+    - [paceofchange](https://github.com/tedunderwood/paceofchange) (2015). (GitHub repository sharing code to reproduce analysis reported in his article ["How Quickly Do Literary Standards Change?"](https://figshare.com/articles/How_Quickly_Do_Literary_Standards_Change_/1418394). The article explicitly explains the research process, from collecting/selecting data to analysis.)
+    - ["The Quiet Transformations of Literary Studies: What Thirteen Thousand Scholars Could Tell Us"](http://hdl.handle.net/2142/49323), in *New Literary History* (2014).
+- [Programming Historian](http://programminghistorian.org/) tutorials.
+- Stanford Literary Lab [Pamphlets](http://litlab.stanford.edu/pamphlets/). (ongoing series of publications relating to "computational criticism")
+- Brandon Walsh and Sarah Horowitz, [Introduction to Text Analysis: A Coursebook](http://walshbr.com/textanalysiscoursebook/) (2016). (Open textbook, Jekyll project hosted on gh-pages, [repo](https://github.com/walshbr/textanalysiscoursebook))
+- Steven Bird, Ewan Klein, and Edward Loper, [Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit](http://www.nltk.org/book/). (known as the NLTK Book, good intro to using Python and textual analysis concepts, with large sample corpora)
+- Julia Silge and David Robinson, [Tidy Text Mining in R](http://tidytextmining.com/) (2017). ([Bookdown](https://bookdown.org/) project written in RMarkdown)
+- [DataBasic](https://www.databasic.io/en/). (slick, simple web apps with lessons to introduce text data concepts)
+- Lincoln Mullen, [Text Analysis for Historians](http://lincolnmullen.com/courses/text-analysis.2016/) (2016).
+- Beth Platte, [Text analysis using Voyant Tools](http://blogs.reed.edu/ed-tech/2017/03/text-analysis-using-voyant-tools/) (2017).

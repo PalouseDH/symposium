@@ -28,6 +28,7 @@ Outlines: [0](outlines/day-0.md) | [1](outlines/day-1.md) | [2](outlines/day-2.m
 
 - [CDIL-Sponsored Palouse Digital Scholarship Symposium Starts This Week](http://www.uidaho.edu/news/news-articles/kudos/2018-spring/050818-cdilsymposium)
 - [The Center for Digital Scholarship and Curation is pleased to announce our 2018 Summer Fellows!](https://news.wsu.edu/announcement/center-digital-scholarship-curation-pleased-announce-2018-summer-fellows/)
+- [Center for Digital Inquiry and Learning Selects 2018 Fellows](http://www.uidaho.edu/news/news-articles/news-releases/2018-May/051018-cdilfellows)
 
 ## Parking
 

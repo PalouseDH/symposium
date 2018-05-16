@@ -44,10 +44,32 @@
 - Group work time 
 - Field trip: Photogrammetry (time permitting)
 
-### DH Communities / Resources
+### DH Communities
 
 - [Humanities Commons](https://hcommons.org/), groups, news sharing, websites, and file sharing. Get started ["summer camp"](https://hcommons.org/groups/humanities-commons-summer-camp/). [Digital Humanists group](https://hcommons.org/groups/digital-humanists/).
 - [HASTAC](https://www.hastac.org/), interdisciplinary DH heavy community with many initiatives focused on innovation in collaboration and pedagogy. Good source for events and CFP. [Get involved](https://www.hastac.org/getting-started-hastacorg).
 - [DH Commons](http://dhcommons.org/), projects listings, conferences, etc.
 - [THAT camp](http://thatcamp.org/), unconference type events.
 - [DHSI](http://www.dhsi.org/), summer camp in Victoria, BC--year round news email list.
+
+### Basic Web-based tools
+
+- [TimelineJS](https://timeline.knightlab.com/) (simple timeline connected to Google Sheets)
+- [StoryMapJS](https://storymap.knightlab.com/) (basic slideshow connected to a map, set up using a web based editor) [advanced setup](https://storymap.knightlab.com/advanced/)
+- [Timemapper](http://timemapper.okfnlabs.org/) (TimelineJS with a map)
+- [Map Warper](http://mapwarper.net/) (geo-rectify and find historic maps)
+- [Palladio](http://hdlab.stanford.edu/palladio/) (web based historical data viz tool)
+- Sarah Simpkin, [Introduction to mapping and spatial methods for the humanities](https://ssimpkin.github.io/dhsite2017/) (2017).
+- [Hypothes.is](https://hypothes.is/). (simple annotation layer added to site via URL, [educators guide](https://hypothes.is/education/))
+
+## Platform Introductions
+
+- [Omeka](https://omeka.org/) (popular CMS for exhibits and teaching. Classroom example [The History Harvest](http://historyharvest.unl.edu/). See [Educators guide](http://info.omeka.net/omeka-net-help/use-case-educators/), [free hosted version](http://www.omeka.net/))
+- [WordPress](https://wordpress.org/) (most common CMS in the world, runs 30%+ of the web. Powerful web-based admin interface, user authentication, media management, comments. [Free hosted version](https://wordpress.com/). Profile example [Adam Sowards](http://adamsowards.net/))
+- [Drupal](https://www.drupal.org/) (powerful CMS, powers other platforms such as Mukurtu and [Islandora](https://islandora.ca/). See Quinn Dombrowski, [*Drupal for Humanists*](http://drupal.forhumanists.org/))
+- GH-Pages (simple, free static hosting. Higher learning curve. See [go-go gh-pages](https://evanwill.github.io/go-go-ghpages/). Profile example [Shawn Graham](http://shawngraham.github.io/).)
+- [Mukurtu](https://mukurtu.org/) (Collection example [Plateau Peoples'
+Web Portal](https://plateauportal.libraries.wsu.edu/). See also [TK Labels](http://www.localcontexts.org/))
+- [Scalar](http://scalar.usc.edu/scalar/) ("authoring and publishing platform that’s designed to make it easy for authors to write long-form, born-digital scholarship online". David Squires' class project [Social Construction of Media](http://scalar.usc.edu/works/cultures-of-social-media/index))
+- [AtoM](https://www.accesstomemory.org/en/) (archival description based CMS)
+- [CONTENTdm](https://www.oclc.org/en/contentdm.html) (very commonly used digital collections platform)
