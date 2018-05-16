@@ -16,6 +16,12 @@
 9am - 11am
 
 - DH Pedagogy discussion
+    - Readings:
+        - [Locating Praxis in Digital Studies: Designing Courses for Graduate Students](https://jentery.github.io/uw/)
+        - Posner, Miriam (2014) “Commit to DH People, Not DH Projects,” [http://miriamposner.com/blog/commit-to-dh-people-not-dh-projects/](http://miriamposner.com/blog/commit-to-dh-people-not-dh-projects/).
+        - http://miriamposner.com/blog/commit-to-dh-people-not-dh-projects/
+        - [(http://miriamposner.com/blog/commit-to-dh-people-not-dh-projects/]
+
 - Projects Showcase
 
 11am - 1pm
