@@ -31,13 +31,17 @@
 
 **Afternoon**
 
-- Mid-week check in. 
+- Mid-week check in.
+- embedding on the web.
+- Group work time 
+- Field trip: Photogrammetry field trip and background slide deck [link](https://docs.google.com/presentation/d/1bHFCzyu0HzNXUer02Gh63J6mYxWyRA2pe5MNEEi9tNk/edit?usp=sharing)(time permitting)
 
-### Embedding on the web, hands-on with [Knightlab tools](https://knightlab.northwestern.edu/projects/)
+### Embedding on the web: hands-on with [Knightlab tools](https://knightlab.northwestern.edu/projects/)
 
 - [Data from our collections](https://dcnb.github.io/pulsesoup/data/)
 
  TimelineJS Steps
+ 
  1. Download data by pushing the download button on the top right of the page, then clicking the "Timelinejs csv" button
  2. Upload the csv into Google Drive
  3. Find the csv file in your drive (can hit the magnifying glass after upload), right click on it, open the csv with Google Sheets
@@ -63,8 +67,7 @@
     - [Paltrow to Shakespeare](http://kindred.stanford.edu/#/path/full/none/none/I13754/I27325/)
 - [American Panorama](http://dsl.richmond.edu/panorama/)
     - [Canals](http://dsl.richmond.edu/panorama/canals/)
-- Group work time 
-- Field trip: Photogrammetry field trip and background slide deck [link](https://docs.google.com/presentation/d/1bHFCzyu0HzNXUer02Gh63J6mYxWyRA2pe5MNEEi9tNk/edit?usp=sharing)(time permitting)
+- [Republic of Letters](http://republicofletters.stanford.edu/)
 
 ### DH Communities
 
