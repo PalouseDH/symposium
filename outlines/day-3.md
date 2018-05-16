@@ -64,7 +64,7 @@
 - [American Panorama](http://dsl.richmond.edu/panorama/)
     - [Canals](http://dsl.richmond.edu/panorama/canals/)
 - Group work time 
-- Field trip: Photogrammetry short slide [deck](https://docs.google.com/presentation/d/1bHFCzyu0HzNXUer02Gh63J6mYxWyRA2pe5MNEEi9tNk/edit?usp=sharing)(time permitting)
+- Field trip: Photogrammetry field trip and background slide deck [link](https://docs.google.com/presentation/d/1bHFCzyu0HzNXUer02Gh63J6mYxWyRA2pe5MNEEi9tNk/edit?usp=sharing)(time permitting)
 
 ### DH Communities
 
