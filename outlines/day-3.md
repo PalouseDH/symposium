@@ -55,12 +55,12 @@
  9. Check out your site to see how if it's working. 
 
 ### DH Projects 
-    - [Photogrammar](http://photogrammar.yale.edu/)
-        - [Explorer](http://photogrammar.yale.edu/labs/crossfilter/california/)
-    - [Kindred Britain](http://kindred.stanford.edu/#)
-        - [Paltrow to Shakespeare](http://kindred.stanford.edu/#/path/full/none/none/I13754/I27325/)
-    - [American Panorama](http://dsl.richmond.edu/panorama/)
-        - [Canals](http://dsl.richmond.edu/panorama/canals/)
+- [Photogrammar](http://photogrammar.yale.edu/)
+    - [Explorer](http://photogrammar.yale.edu/labs/crossfilter/california/)
+- [Kindred Britain](http://kindred.stanford.edu/#)
+    - [Paltrow to Shakespeare](http://kindred.stanford.edu/#/path/full/none/none/I13754/I27325/)
+- [American Panorama](http://dsl.richmond.edu/panorama/)
+    - [Canals](http://dsl.richmond.edu/panorama/canals/)
 - Group work time 
 - Field trip: Photogrammetry (time permitting)
 
