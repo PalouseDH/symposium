@@ -17,10 +17,10 @@
 
 - DH Pedagogy discussion
     - Readings:
-        - [Locating Praxis in Digital Studies: Designing Courses for Graduate Students](https://jentery.github.io/uw/)
-        - Posner, Miriam (2014) “Commit to DH People, Not DH Projects,” [http://miriamposner.com/blog/commit-to-dh-people-not-dh-projects/](http://miriamposner.com/blog/commit-to-dh-people-not-dh-projects/).
-        - http://miriamposner.com/blog/commit-to-dh-people-not-dh-projects/
-        - [(http://miriamposner.com/blog/commit-to-dh-people-not-dh-projects/]
+        - Sayers, Jentery (2018) "Locating Praxis in Digital Studies: Designing Courses for Graduate Students," https://jentery.github.io/uw/ 
+        - Posner, Miriam (2014) “Commit to DH People, Not DH Projects," http://miriamposner.com/blog/commit-to-dh-people-not-dh-projects/
+        - Gil, Alex (2015) “The User, The Learner and the Machines We Make,” http://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/.
+    - _Note: these readings were drawn from Sayers' excellent References section in the piece listed above. It is definitely a list worth exploring._
 
 - Projects Showcase
 
