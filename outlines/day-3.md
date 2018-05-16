@@ -33,8 +33,9 @@
 
 - Mid-week check in. 
 
-- Embedding on the web, hands-on with [Knightlab tools](https://knightlab.northwestern.edu/projects/)
-    - [Data from our collections](https://dcnb.github.io/pulsesoup/data/)
+### Embedding on the web, hands-on with [Knightlab tools](https://knightlab.northwestern.edu/projects/)
+
+- [Data from our collections](https://dcnb.github.io/pulsesoup/data/)
 
  TimelineJS Steps
  1. Download data by pushing the download button on the top right of the page, then clicking the "Timelinejs csv" button
