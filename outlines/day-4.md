@@ -19,25 +19,23 @@
 - DH projects deconstructions: explore source data, people, tools, outputs.
     - Miriam Posner, [How did they make that?](http://miriamposner.com/blog/how-did-they-make-that/). 
     - DH Commons: [How did they make that? Programming Historian](http://dhcommons.org/journal/issue-1/editorial-sustainability-and-open-peer-review-programming-historian).
-- Text visualization & analysis tool discussion and play time: hands-on with 
+- Text visualization & analysis tool discussion and play time:
     - Quick discussion available tools that y'all are using or can be used to visualize or analyze data
-        -[Voyant Tools](https://voyant-tools.org/)
-        -[AntCon](http://www.laurenceanthony.net/)
-        -[Natural Language Toolkit (Python Libraries -- Advanced!)](http://www.nltk.org/install.html)
-        -[Tidy Text Mining in R](https://www.tidytextmining.com/index.html)
-            -[R Studio an R IDE](https://github.com/rstudio/rstudio)
-        -A more complete list at Western Michigan University Libraries- [Digital Humanities: Text Analysis & Data Mining Tools]     (http://libguides.wmich.edu/digitalhumanities/tools)
+        - [Voyant Tools](https://voyant-tools.org/)
+        - [AntCon](http://www.laurenceanthony.net/)
+        - [Natural Language Toolkit (Python Libraries -- Advanced!)](http://www.nltk.org/install.html)
+        - [Tidy Text Mining in R](https://www.tidytextmining.com/index.html
+        - [R Studio an R IDE](https://github.com/rstudio/rstudio)
+        - A more complete list at Western Michigan University Libraries: [Digital Humanities: Text Analysis & Data Mining Tools]   (http://libguides.wmich.edu/digitalhumanities/tools)
         
-        
-       
--Introductory hands-on with [Voyant Tools](https://voyant-tools.org/)
-    -Great introductory session targeted for use and completion within one class period from UT     
+    - Introductory hands-on with [Voyant Tools](https://voyant-tools.org/)
+        - Great introductory session targeted for use and completion within one class period from UT     
     [Austin](https://www.dwrl.utexas.edu/2016/11/29/voyant-for-text-analysis/)
-    -Before we get started go grab a dataset!
-        -[Natural Language Toolkit Corpora](http://www.nltk.org/nltk_data/)
-        -If you would rather there are a few corpora included within Voyant Tools (just click through the links below to auto load the text: 
-            -[Shakespeare](http://voyant-tools.org/?corpus=shakespeare)
-            -[Austen](http://voyant-tools.org/?corpus=austen)
+    - Before we get started go grab a dataset!
+        - [Natural Language Toolkit Corpora](http://www.nltk.org/nltk_data/)
+        - If you would rather there are a few corpora included within Voyant Tools (just click through the links below to auto load the text:    
+            - [Shakespeare](http://voyant-tools.org/?corpus=shakespeare)
+            - [Austen](http://voyant-tools.org/?corpus=austen)
     
 
 **Afternoon**
