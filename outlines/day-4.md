@@ -23,16 +23,15 @@
     - Quick discussion available tools that y'all are using or can be used to visualize or analyze data
         - [Voyant Tools](https://voyant-tools.org/)
         - [AntCon](http://www.laurenceanthony.net/)
-        - A more complete list at Western Michigan University Libraries: [Digital Humanities: Text Analysis & Data Mining Tools]   (http://libguides.wmich.edu/digitalhumanities/tools)
+        - A more complete list at Western Michigan University [Libraries](http://libguides.wmich.edu/digitalhumanities/tools)
         
     - Introductory hands-on with [Voyant Tools](https://voyant-tools.org/)
-        - We will be following the outline from UT Austin.  Great introductory session targeted for use and completion within one class period from UT     
-    [Austin](https://www.dwrl.utexas.edu/2016/11/29/voyant-for-text-analysis/)
+        - We will be following the outline from UT Austin.  Great introductory session targeted for use and completion within one class period from [UT Austin](https://www.dwrl.utexas.edu/2016/11/29/voyant-for-text-analysis/)
     - Before we get started go grab a dataset!
         - [Natural Language Toolkit Corpora](http://www.nltk.org/nltk_data/)
         - If you would rather there are a few corpora included within Voyant Tools (just click through the links below to auto load the text:    
-            - [Shakespeare](http://voyant-tools.org/?corpus=shakespeare)
-            - [Austen](http://voyant-tools.org/?corpus=austen)
+            - [Voyant Tools with Shakespeare corpora loaded](http://voyant-tools.org/?corpus=shakespeare)
+            - [Voyant Tools with Jane Austen corpora loaded](http://voyant-tools.org/?corpus=austen)
     
 
 **Afternoon**
