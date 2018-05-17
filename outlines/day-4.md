@@ -111,5 +111,5 @@ Machine Learning for hand written text analysis
     - Transcribing [Bentham](https://blogs.ucl.ac.uk/transcribe-bentham/)
     - [MarineLives](http://www.marinelives.org/wiki/Tools:_Collaboration_with_Transkribus)
 - Software
-    - [Transkribus](https://transkribus.eu/Transkribus/)
-    - Transkibus [GitHub](https://github.com/Transkribus/)
+    - [Transkribus](https://transkribus.eu/Transkribus/)  [GitHub](https://github.com/Transkribus/)
+    - Transkibus
