@@ -22,6 +22,8 @@
     - "modeling-to-explain and modeling-to-predict"
 - outputs: code, data, articles
 
+text analysis: 
+
 - structured data vs. unstructured data. techniques to take unstructured > statistical models.
 - Printed text > data = OCR. 
     - process: digitization, image preprocessing, segmentation + layout detection, OCR, text post-processing.
