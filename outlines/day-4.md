@@ -58,7 +58,7 @@ text analysis:
     - If you would rather there are a few corpora included within Voyant Tools (just click through the links below to auto load the text):    
         - [Voyant Tools with Shakespeare corpora loaded](http://voyant-tools.org/?corpus=shakespeare)
         - [Voyant Tools with Jane Austen corpora loaded](http://voyant-tools.org/?corpus=austen)
-        - Explore Adam Soward's writing: [forest](http://voyant-tools.org/?corpus=ad9d4fbe072d540cfc40e0ce9206c9c7&panels=cirrus,reader,trends,summary,contexts), [public](http://voyant-tools.org/?corpus=9201a8d973ae5b0fb618eda9e762d4ae&panels=cirrus,reader,trends,summary,contexts))
+        - Explore Adam Soward's writing: [forest](http://voyant-tools.org/?corpus=ad9d4fbe072d540cfc40e0ce9206c9c7&panels=cirrus,reader,trends,summary,contexts), [public](http://voyant-tools.org/?corpus=9201a8d973ae5b0fb618eda9e762d4ae&panels=cirrus,reader,trends,summary,contexts)
 
 ## Afternoon
 
