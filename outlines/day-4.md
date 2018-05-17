@@ -76,6 +76,8 @@ text analysis:
 - Franzini, Kestemont, et al. "Attributing Authorship in the Noisy Digitized Correspondence of Jacob and Wilhelm Grimm", Front. Digit. Humanit., 05 April 2018, https://doi.org/10.3389/fdigh.2018.00004 (horrible OCR accuracy might not matter for some research questions!)
 - Stanford Literary Lab [Pamphlets](http://litlab.stanford.edu/pamphlets/). (ongoing series of publications relating to "computational criticism")
 
+learning resources:
+
 - [Algorithm Tips](http://algorithmtips.org/)
 - [Programming Historian](http://programminghistorian.org/) tutorials.
 - Brandon Walsh and Sarah Horowitz, [Introduction to Text Analysis: A Coursebook](http://walshbr.com/textanalysiscoursebook/) (2016). (Open textbook, Jekyll project hosted on gh-pages, [repo](https://github.com/walshbr/textanalysiscoursebook))
