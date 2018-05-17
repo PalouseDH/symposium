@@ -84,6 +84,7 @@ text analysis:
 - Lincoln Mullen, [Text Analysis for Historians](http://lincolnmullen.com/courses/text-analysis.2016/) (2016).
 - Lincoln Mullen, [Computational Historical Thinking](http://dh-r.lincolnmullen.com/index.html) (2018+).
 - Gideon Lewis-Kraus, [The Great A.I. Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html) (2016)
+- SAM KEAN, [Artificial Intelligence Is Cracking Open the Vatican's Secret Archives](https://www.theatlantic.com/technology/archive/2018/04/vatican-secret-archives-artificial-intelligence/559205/) (2018)
 
 ## Text Analysis Tools
 
