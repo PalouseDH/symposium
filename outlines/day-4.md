@@ -104,3 +104,4 @@ Natural Language Processing / Machine Learning:
 - [MALLET](http://mallet.cs.umass.edu/index.php) topic modeling
 - [Stanford NLP Group](http://nlp.stanford.edu/software/) (a library of Java apps, e.g. [named entity tagging demo](http://nlp.stanford.edu:8080/ner/), with academic papers explaining their use)
 - Web NLP APIs: [Open Calais](http://www.opencalais.com/), [Natural Language Understanding](https://www.ibm.com/watson/developercloud/natural-language-understanding.html)
+- [Weka](https://www.cs.waikato.ac.nz/ml/index.html) is an effort to bring machine learning to more people by packaging up many of the algorithms up into a GUI. Weka has been developed at the University of Waikato in New Zealand
