@@ -32,7 +32,7 @@
     - [AntCon](http://www.laurenceanthony.net/)
     - A larger list at Western Michigan University [Libraries](http://libguides.wmich.edu/digitalhumanities/tools)
 - Introductory hands-on with [Voyant Tools](https://voyant-tools.org/)
-    - We will be following, loosely, the linked outline from [UT Austin](https://www.dwrl.utexas.edu/2016/11/29/voyant-for-text-analysis/). It is a great introductory session targeted for use and completion within one class period. 
+    - We will be following, loosely, this  [outline](https://www.dwrl.utexas.edu/2016/11/29/voyant-for-text-analysis/) from UT Austin. It is a great introductory session targeted for use and completion within one class period. 
 - Before we get started go grab a dataset!
     - [Natural Language Toolkit Corpora](http://www.nltk.org/nltk_data/)
     - If you would rather there are a few corpora included within Voyant Tools (just click through the links below to auto load the text):    
