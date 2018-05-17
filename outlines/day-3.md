@@ -12,7 +12,7 @@
 
 ## Outline: 
 
-**Morning** 
+## Morning
 
 - Web publishing discussion
 - Platform introductions and considerations
@@ -29,7 +29,7 @@
     - http://publications.newberry.org/dig/creating-shakespeare
     - http://publications.newberry.org/dig/rc-transcribe/italian-religious-broadsides
 
-**Afternoon**
+## Afternoon
 
 - Mid-week check in.
 - embedding on the web.
@@ -87,7 +87,7 @@
 - Sarah Simpkin, [Introduction to mapping and spatial methods for the humanities](https://ssimpkin.github.io/dhsite2017/) (2017).
 - [Hypothes.is](https://hypothes.is/). (simple annotation layer added to site via URL, [educators guide](https://hypothes.is/education/))
 
-## Platform Introductions
+### Platform Introductions
 
 - [Omeka](https://omeka.org/) (popular CMS for exhibits and teaching. Classroom example [The History Harvest](http://historyharvest.unl.edu/). See [Educators guide](http://info.omeka.net/omeka-net-help/use-case-educators/), [free hosted version](http://www.omeka.net/))
 - [WordPress](https://wordpress.org/) (most common CMS in the world, runs 30%+ of the web. Powerful web-based admin interface, user authentication, media management, comments. [Free hosted version](https://wordpress.com/). Profile example [Adam Sowards](http://adamsowards.net/))
