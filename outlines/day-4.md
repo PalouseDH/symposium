@@ -75,8 +75,11 @@ text analysis:
 - Jeffrey M. Binder, ["Alien Reading: Text Mining, Language Standardization, and the Humanities"](http://dhdebates.gc.cuny.edu/debates/text/69) in *Debates in the Digital Humanities* (2016).
 - Franzini, Kestemont, et al. "Attributing Authorship in the Noisy Digitized Correspondence of Jacob and Wilhelm Grimm", Front. Digit. Humanit., 05 April 2018, https://doi.org/10.3389/fdigh.2018.00004 (horrible OCR accuracy might not matter for some research questions!)
 - Stanford Literary Lab [Pamphlets](http://litlab.stanford.edu/pamphlets/). (ongoing series of publications relating to "computational criticism")
+- Gideon Lewis-Kraus, [The Great A.I. Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html) (2016)
+- SAM KEAN, [Artificial Intelligence Is Cracking Open the Vatican's Secret Archives](https://www.theatlantic.com/technology/archive/2018/04/vatican-secret-archives-artificial-intelligence/559205/) (2018)
+- Donatella Firmani, Marco Maiorino, Paolo Merialdo, Elena Nieddu, [Towards Knowledge Discovery from the Vatican Secret Archives.](https://arxiv.org/pdf/1803.03200.pdf) (2018)
 
-learning resources:
+Learning resources:
 
 - [Algorithm Tips](http://algorithmtips.org/)
 - [Programming Historian](http://programminghistorian.org/) tutorials.
@@ -85,11 +88,10 @@ learning resources:
 - Julia Silge and David Robinson, [Tidy Text Mining in R](http://tidytextmining.com/) (2017). ([Bookdown](https://bookdown.org/) project written in RMarkdown)
 - Lincoln Mullen, [Text Analysis for Historians](http://lincolnmullen.com/courses/text-analysis.2016/) (2016).
 - Lincoln Mullen, [Computational Historical Thinking](http://dh-r.lincolnmullen.com/index.html) (2018+).
-- Gideon Lewis-Kraus, [The Great A.I. Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html) (2016)
-- SAM KEAN, [Artificial Intelligence Is Cracking Open the Vatican's Secret Archives](https://www.theatlantic.com/technology/archive/2018/04/vatican-secret-archives-artificial-intelligence/559205/) (2018)
-- Donatella Firmani, Marco Maiorino, Paolo Merialdo, Elena Nieddu, [Towards Knowledge Discovery from the Vatican Secret Archives.](https://arxiv.org/pdf/1803.03200.pdf) (2018)
 
 ## Text Analysis Tools
+
+- [TAPoR 3](http://tapor.ca/home) directory
 
 Visualize text(s):
 
@@ -111,7 +113,8 @@ Natural Language Processing / Machine Learning:
 - Web NLP APIs: [Open Calais](http://www.opencalais.com/), [Natural Language Understanding](https://www.ibm.com/watson/developercloud/natural-language-understanding.html)
 - [Weka](https://www.cs.waikato.ac.nz/ml/index.html) is an effort to bring machine learning to more people by packaging up many of the algorithms up into a GUI. Weka has been developed at the University of Waikato in New Zealand
 
-Machine Learning for hand written text analysis
+Machine Learning for hand written text analysis:
+
 - Projects
     - Transcribing [Bentham](https://blogs.ucl.ac.uk/transcribe-bentham/)
     - [MarineLives](http://www.marinelives.org/wiki/Tools:_Collaboration_with_Transkribus)
