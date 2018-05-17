@@ -87,6 +87,7 @@ learning resources:
 - Lincoln Mullen, [Computational Historical Thinking](http://dh-r.lincolnmullen.com/index.html) (2018+).
 - Gideon Lewis-Kraus, [The Great A.I. Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html) (2016)
 - SAM KEAN, [Artificial Intelligence Is Cracking Open the Vatican's Secret Archives](https://www.theatlantic.com/technology/archive/2018/04/vatican-secret-archives-artificial-intelligence/559205/) (2018)
+- Donatella Firmani, Marco Maiorino, Paolo Merialdo, Elena Nieddu, [Towards Knowledge Discovery from the Vatican Secret Archives.](https://arxiv.org/pdf/1803.03200.pdf) (2018)
 
 ## Text Analysis Tools
 
