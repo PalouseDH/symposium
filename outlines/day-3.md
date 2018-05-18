@@ -14,6 +14,7 @@
 
 ## Morning
 
+- [Scalar slides](https://docs.google.com/presentation/d/1nOsB48GvgJ3bNqmob05Pnaz7pseemrIJUyJ4EJvy6m8/edit?usp=sharing)
 - Web publishing discussion
 - Platform introductions and considerations
 - Scalar hands-on
