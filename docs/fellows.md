@@ -10,5 +10,11 @@ header:
   cta2_label: "Random Team Generator"
   cta2_url: "../randomteams/"
 ---
-# Fellows
+
+# Fellows 
+
+You could be a fellow in the 2019 symposium! [Apply]({{ '/apply' | relative_url }})
+
+## 2018
+
 {% include fellows.html %}

@@ -7,4 +7,5 @@ header:
   overlay_image: /assets/images/dawid-zawila-251904-unsplash.jpg
 ---
 # Instructors
+
 {% include instructors.html %}
