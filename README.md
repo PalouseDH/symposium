@@ -1,11 +1,14 @@
 # Palouse Digital Scholarship Symposium
 
-Outlines: [0](outlines/day-0.md) | [1](outlines/day-1.md) | [2](outlines/day-2.md) | [3](outlines/day-3.md) | [4](outlines/day-4.md) | [5](outlines/day-5.md)
+A week long DH Symposium sponsored by the [CDSC](https://cdsc.libraries.wsu.edu/) + [CDIL](https://cdil.lib.uidaho.edu/).
 
-> A week long DH Symposium sponsored by the [CDSC](https://cdsc.libraries.wsu.edu/) + [CDIL](https://cdil.lib.uidaho.edu/).
->
-> May 11th - 18th, 2018
-> <https://palousedh.github.io/symposium/>
+May 10th - 17th, 2019 | <https://palousedh.github.io/symposium/>
+
+> The outline below is from the 2018 symposium. 
+> Content will be updated for 2019. 
+> Meanwhile, [Apply to join in May 2019](https://palousedh.github.io/symposium/apply/).
+
+Outlines: [0](outlines/day-0.md) | [1](outlines/day-1.md) | [2](outlines/day-2.md) | [3](outlines/day-3.md) | [4](outlines/day-4.md) | [5](outlines/day-5.md)
 
 ## Symposium Schedule & Outlines
 
