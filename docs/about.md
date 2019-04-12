@@ -17,11 +17,8 @@ The 2019 symposium will be hosted alternately by both institutions, beginning on
 Librarians and faculty connected with the CDIL and CDSC will direct the program and provide instruction.
 View resources and outlines at the [Symposium repository](https://github.com/PalouseDH/symposium).
 
-At the end of the symposium, groups composed of individuals from both campuses will present project ideas for a shared project between the two centers.
-
 For more information on past summer fellows and other CDIL fellowships, visit [https://cdil.lib.uidaho.edu/#fellowships](https://cdil.lib.uidaho.edu/#fellowships). 
 
 For more information on past CDSC fellows, visit [https://cdsc.libraries.wsu.edu/research/summer-fellows-projects/](https://cdsc.libraries.wsu.edu/research/summer-fellows-projects/)
- 
 
 Questions? Email Evan Williamson @ ewilliamson@uidaho.edu

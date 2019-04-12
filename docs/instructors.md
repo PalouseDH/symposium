@@ -8,4 +8,6 @@ header:
 ---
 # Instructors
 
+Faculty associated with CDSC and CDIL help lead the Symposium, bringing a wide variety of experience, backgrounds, and interests to the discussions.
+
 {% include instructors.html %}
