@@ -1,6 +1,6 @@
-# Palouse Digital Scholarship Symposium Bibliography
+# 2019 Palouse Digital Scholarship Symposium Bibliography
 
-> a list of resources and references
+> a list of resources and references. Please contribute!
 
 ## Articles:
 
