@@ -13,6 +13,9 @@ header:
 
 # Fellows
 
+Symposium Fellows are selected via a competitive award process at WSU and UI.
+Fellows include faculty and graduate students interested in expanding their work with digital scholarship tools, projects, and processes.
+
 ## 2018
 
 {% include fellows.html %}
