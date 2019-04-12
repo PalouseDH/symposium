@@ -1,8 +1,6 @@
-# Archives and Collections: Access and Ethics
+# Ethics and Access: Mukurtu
 
-> Tuesday, May 15th, CDSC
-> 
-> Outlines: [0](day-0.md) | [1](day-1.md) | [2](day-2.md) | [3](day-3.md) | [4](day-4.md) | [5](day-5.md)
+> Monday, May 13th, 9:00am - 4:00pm, CDSC.
 
 ## Objectives
 
@@ -54,7 +52,9 @@
 2-3
 - Batch Import demo
   - Activity: Batch Import (basic)
-- Mukurtu work time
 
-3-4
-- Project Pitch work time
+## DH Discussion Session
+
+-----------------------
+
+> Outlines: [0](day-0.md) | [1](day-1.md) | [2](day-2.md) | [3](day-3.md) | [4](day-4.md) | [5](day-5.md)

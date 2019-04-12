@@ -1,8 +1,6 @@
 # Digital Scholarship: Text and Data Analysis
 
-> Thursday, May 17th, CDIL
-> 
-> Outlines: [0](day-0.md) | [1](day-1.md) | [2](day-2.md) | [3](day-3.md) | [4](day-4.md) | [5](day-5.md)
+> Thursday, May 16th, 9:00am - 4:00pm, CDIL.
 
 ## Objectives
 
@@ -120,3 +118,9 @@ Machine Learning for hand written text analysis:
     - [MarineLives](http://www.marinelives.org/wiki/Tools:_Collaboration_with_Transkribus)
 - Software
     - Transkribus [download](https://transkribus.eu/Transkribus/) and [GitHub](https://github.com/Transkribus/)
+
+## DH Discussion Session
+
+-----------------------
+
+> Outlines: [0](day-0.md) | [1](day-1.md) | [2](day-2.md) | [3](day-3.md) | [4](day-4.md) | [5](day-5.md)

@@ -76,9 +76,18 @@ ed. Kevin Kee (University of Michigan Press, 2014), [DOI:10.3998/dh.12544152.000
 - Lincoln Mullen, [Text Analysis for Historians](http://lincolnmullen.com/courses/text-analysis.2016/) (2016).
 - Lincoln Mullen, [Computational Historical Thinking](http://dh-r.lincolnmullen.com/index.html) (2018+).
 - [Programming Historian](http://programminghistorian.org/) tutorials.
+- Ryan Cordell, [DH Dossier](https://ryancordell.org/personal/dh-dossier), discussing tenure process.
 
 ## Courses / Syllabi:
 
 - Miriam Posner, [Introduction to Digital Humanities](http://miriamposner.com/classes/dh101f17/). (recent [blog post reflections](http://miriamposner.com/blog/scaling-up-dh101/))
 - Shawn Graham, Crafting Digital History, [course workbook](http://workbook.craftingdigitalhistory.ca/), [repository](https://github.com/shawngraham/hist3907o), and [organization](https://github.com/craftingdigitalhistory).
 - Sean Butterfield and Evan, [Inquiry-Based Music Theory](https://github.com/smbutterfield/ibmt17-18)
+
+## DH Communities
+
+- [Humanities Commons](https://hcommons.org/), groups, news sharing, websites, and file sharing. Get started ["summer camp"](https://hcommons.org/groups/humanities-commons-summer-camp/). [Digital Humanists group](https://hcommons.org/groups/digital-humanists/).
+- [HASTAC](https://www.hastac.org/), interdisciplinary DH heavy community with many initiatives focused on innovation in collaboration and pedagogy. Good source for events and CFP. [Get involved](https://www.hastac.org/getting-started-hastacorg).
+- [DH Commons](http://dhcommons.org/), projects listings, conferences, etc.
+- [THAT camp](http://thatcamp.org/), unconference type events.
+- [DHSI](http://www.dhsi.org/), summer camp in Victoria, BC--year round news email list.

@@ -1,14 +1,11 @@
-# Web Publishing and Literacy
+# Digital Publishing: Scalar and StoryMaps
 
-> Wednesday, May 16th, CDSC
-> 
-> Outlines: [0](day-0.md) | [1](day-1.md) | [2](day-2.md) | [3](day-3.md) | [4](day-4.md) | [5](day-5.md)
+> Wednesday, May 15th, 9:00am - 4:00pm, CDSC.
 
 ## Objectives
 
 - explore scholarly publishing platforms
 - learn about embedding on the web
-- web literacy: be ready to "view source" and explore "how did they make that"
 
 ## Outline: 
 
@@ -39,27 +36,6 @@
 
 ### Embedding on the web: hands-on with [Knightlab tools](https://knightlab.northwestern.edu/projects/)
 
-- [Data from our collections](https://dcnb.github.io/pulsesoup/data/)
-
- TimelineJS Steps
-
- 1. Download data by pushing the download button on the top right of the page, then clicking the "Timelinejs csv" button
- 2. Upload the csv into Google Drive
- 3. Find the csv file in your drive (can hit the magnifying glass after upload), right click on it, open the csv with Google Sheets
- 4. Make some edits to the content
-    - At the very least delete the two rows that have no date in them. 
-    - Suggested: eliminate all but a few related items and add to the 
- 5. Follow [instructions via knightlab](https://timeline.knightlab.com/#make)
-    - Click the File menu button at the top of the page, then click "Publish to the Web"
-    - On the following pop-up, click "Publish", then click OK on the next "sure you want to do this" dialog, then close the dialog
-    - Copy the url for your google sheet from your browser (do not copy the url provided by the dialog)
-    - paste it into the [knightlab site](https://timeline.knightlab.com/#make)
-    - SEE WHAT YOU HAVE WROUGHT!
- 6. Go to the knightlab site's step 4 and copy the embed link
- 7. Go to your digital collection website on github (mine is pulsesoup)
- 8. Paste that code right below the second "---" in the "_layouts/timeline.html" file.
- 9. Check out your site to see how if it's working. 
-
 ### DH Projects 
 
 - [Photogrammar](http://photogrammar.yale.edu/)
@@ -69,14 +45,6 @@
 - [American Panorama](http://dsl.richmond.edu/panorama/)
     - [Canals](http://dsl.richmond.edu/panorama/canals/)
 - [Republic of Letters](http://republicofletters.stanford.edu/)
-
-### DH Communities
-
-- [Humanities Commons](https://hcommons.org/), groups, news sharing, websites, and file sharing. Get started ["summer camp"](https://hcommons.org/groups/humanities-commons-summer-camp/). [Digital Humanists group](https://hcommons.org/groups/digital-humanists/).
-- [HASTAC](https://www.hastac.org/), interdisciplinary DH heavy community with many initiatives focused on innovation in collaboration and pedagogy. Good source for events and CFP. [Get involved](https://www.hastac.org/getting-started-hastacorg).
-- [DH Commons](http://dhcommons.org/), projects listings, conferences, etc.
-- [THAT camp](http://thatcamp.org/), unconference type events.
-- [DHSI](http://www.dhsi.org/), summer camp in Victoria, BC--year round news email list.
 
 ### Basic Web-based tools
 
@@ -99,3 +67,9 @@ Web Portal](https://plateauportal.libraries.wsu.edu/). See also [TK Labels](http
 - [Scalar](http://scalar.usc.edu/scalar/) ("authoring and publishing platform that’s designed to make it easy for authors to write long-form, born-digital scholarship online". David Squires' class project [Social Construction of Media](http://scalar.usc.edu/works/cultures-of-social-media/index))
 - [AtoM](https://www.accesstomemory.org/en/) (archival description based CMS)
 - [CONTENTdm](https://www.oclc.org/en/contentdm.html) (very commonly used digital collections platform)
+
+## DH Discussion Session
+
+-----------------------
+
+> Outlines: [0](day-0.md) | [1](day-1.md) | [2](day-2.md) | [3](day-3.md) | [4](day-4.md) | [5](day-5.md)
