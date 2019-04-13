@@ -4,6 +4,7 @@
 
 ## Articles:
 
+- McPherson, Tara.(2012) [Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation] (http://www.kimchristen.com/wp-content/uploads/2018/01/Debates_in_the_Digital_Humanities_9_Why_Are_the_Digital_Humanities_So_White_or_Thinking_the_Histories.pdf/)in Debates in the Digital Humanities.  
 - Matt Ratto, "Critical Making: Conceptual and Material Studies in Technology and Social Life", *Information Society* 27 (2011). DOI:[10.1080/01972243.2011.583819](http://dx.doi.org/10.1080/01972243.2011.583819))
 - Alexey Zagalsky, [Why you should use GitHub: Lessons for the classroom and newsroom](http://www.storybench.org/use-github-lessons-classroom-newsroom/), Storybench, Sept 29, 2015.
 - Leo Porter, Mark Guzdial, Charlie McDowell, and Beth Simon, “Success in Introductory Programming: What Works?” Communications of the ACM 56, 8 (2013), [DOI:10.1145/2492007.2492020](https://doi.org/10.1145/2492007.2492020).
@@ -23,7 +24,7 @@
 - Gil, Alex (2015) “The User, The Learner and the Machines We Make,” http://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/.
 - [Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 - Ian Milligan, ["Illusionary Order: Online Databases, Optical Character Recognition, and Canadian History, 1997–2010"](https://muse.jhu.edu/article/527016)
-- Stephen Ramsay's "[The Hermeneutics of Screwing Around; or What You Do with a Million Books](https://libraries.uh.edu/wp-content/uploads/Ramsay-The-Hermeneutics-of-Screwing-Around.pdf)" (pdf link).
+- Ramsay, Stephen "[The Hermeneutics of Screwing Around; or What You Do with a Million Books](https://libraries.uh.edu/wp-content/uploads/Ramsay-The-Hermeneutics-of-Screwing-Around.pdf)" (pdf link).
 
 ## Books:
 
@@ -63,6 +64,8 @@ ed. Kevin Kee (University of Michigan Press, 2014), [DOI:10.3998/dh.12544152.000
 - [TAPoR](http://tapor.ca/home)
 - [Native Land](https://native-land.ca/)
 - [Joods Monument](https://www.joodsmonument.nl/)
+- [Mukurtu CMS] (https://mukurtu.org)
+- [Plateau Peoples' Web Portal] (https://plateauportal.libraries.wsu.edu/)
 
 ## Tutorials:
 
