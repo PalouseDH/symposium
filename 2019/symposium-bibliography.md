@@ -25,6 +25,12 @@
 - [Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 - Ian Milligan, ["Illusionary Order: Online Databases, Optical Character Recognition, and Canadian History, 1997–2010"](https://muse.jhu.edu/article/527016)
 - Ramsay, Stephen "[The Hermeneutics of Screwing Around; or What You Do with a Million Books](https://libraries.uh.edu/wp-content/uploads/Ramsay-The-Hermeneutics-of-Screwing-Around.pdf)" (pdf link).
+- Gallon, Kim. (2016) "Making the Case for the Black Digital Humanities." in Debates in the Digital Humanities (http://dhdebates.gc.cuny.edu/debates/text/55)
+- Christen, Kimberly. (2012) "Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness." International Journal of Communication, Volume 6, 2870-2893. (http://ijoc.org/ojs/index.php/ijoc/article/view/1618)
+- Christen, Kimberly (2015) "On Not Looking: Economies of Visuality in Digital Museums," in the International Handbooks of Museum Studies: Museum Transformations, First Edition. Edited by Annie E. Coombes and Ruth B. Phillips. John Wiley & Sons, Ltd. Oxford Press, 365-386. (http://www.kimchristen.com/wp-content/uploads/2015/08/Christen_On_not_looking_205.pdf/)
+- Christen, Kimberly. (2018) “Relationships not Records: Digital Heritage and the Ethics of Sharing Indigenous Knowledge Online." in Routledge Companion to Media Studies and Digital Humanities, edited by Jentery Sayers. Routledge: Taylor and Francis,pp. 403-412. (http://www.kimchristen.com/wp-content/uploads/2018/05/41christenKimberly.pdf)
+- Posner, Miriam. (2016). "What’s Next: The Radical, Unrealized Potential of Digital Humanities," in Debates in the Digital Humanities (http://dhdebates.gc.cuny.edu/debates/text/54)
+- Risam, Roopika (2016) “Navigating the Global Digital Humanities: Insights from Black Feminism”  in Debates in the Digital Humanities (http://dhdebates.gc.cuny.edu/debates/text/80)
 
 ## Books:
 
@@ -66,6 +72,17 @@ ed. Kevin Kee (University of Michigan Press, 2014), [DOI:10.3998/dh.12544152.000
 - [Joods Monument](https://www.joodsmonument.nl/)
 - [Mukurtu CMS] (https://mukurtu.org)
 - [Plateau Peoples' Web Portal] (https://plateauportal.libraries.wsu.edu/)
+- [Mapping Indigenous LA] (https://mila.ss.ucla.edu/)
+- [Documenting Ferguson] (http://digital.wustl.edu/ferguson/)
+- [Documenting the Now] (https://www.docnow.io/)
+- [Digital Transgender Archive] (https://www.digitaltransgenderarchive.net/)
+- [Slave Societies Digital Archive] (https://www.slavesocieties.org/)
+- [The Real Faces of White Australia] ( http://invisibleaustralians.org/faces/)
+- [Mapping Massacres] (https://c21ch.newcastle.edu.au/colonialmassacres/map.php)
+- [Torn Apart/Separados] (http://xpmethod.plaintext.in/torn-apart/volume/1/)
+
+
+
 
 ## Tutorials:
 
