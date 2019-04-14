@@ -19,6 +19,10 @@
 - research question > data set > predictive modeling > features
     - "modeling-to-explain and modeling-to-predict"
 - outputs: code, data, articles
+- Key points from Underwood: 
+    - "Computational methods are transforming the social and natural sciences as much as the humanities"
+    - "new methods make it easier to represent unstructured text in a statistical model"
+    - "the goal of computational analysis is not, after all, to reproduce the modes of understanding readers have already achieved."
 
 text analysis: 
 
