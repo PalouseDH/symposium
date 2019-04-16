@@ -23,6 +23,10 @@
 - Christen, Kimberly. (2018) “Relationships not Records: Digital Heritage and the Ethics of Sharing Indigenous Knowledge Online." in Routledge Companion to Media Studies and Digital Humanities, edited by Jentery Sayers. Routledge: Taylor and Francis,pp. 403-412. (http://www.kimchristen.com/wp-content/uploads/2018/05/41christenKimberly.pdf)
 - Posner, Miriam. (2016). ["What’s Next: The Radical, Unrealized Potential of Digital Humanities"](http://dhdebates.gc.cuny.edu/debates/text/54), in Debates in the Digital Humanities.
 - Risam, Roopika (2016) "[Navigating the Global Digital Humanities: Insights from Black Feminism](http://dhdebates.gc.cuny.edu/debates/text/80)",  in Debates in the Digital Humanities.
+- Moretti, Franco. (2000). ["The Slaughterhouse of Literature."](https://msu.edu/course/eng/487/snapshot.afs/johnsen/61.1moretti.pdf) *MLQ: Modern Language Quarterly* 61, no. 1: 207-227.
+- Moretti, Franco. (2003). ["Graphs, Maps, Trees."](https://www.mat.ucsb.edu/~g.legrady/academic/courses/09w259/Moretti_graphs.pdf) *New Left Review* 24.
+- Folsom, Ed. (2007). ["Database as Genre: The Epic Transformation of Archives."](http://digitalrhetoricandnetworkedcomposition.web.unc.edu/files/2016/01/folsom-database-as-genre.pdf) *PMLA* 122, no. 5: 1571-1579.
+- Cooper, David, and Ian N. Gregory. (2011). ["Mapping the English Lake District: A Literary GIS"](https://www.jstor.org/stable/23020843) *Transactions of the Institute of British Geographers* 36, no. 1: 89-108.
 
 ## Books:
 
@@ -81,6 +85,8 @@ ed. Kevin Kee (University of Michigan Press, 2014), [DOI:10.3998/dh.12544152.000
 - [Chinatown Sound Map](http://chinatownsoundmap.com/about/)
 - [Frankenbook](https://www.frankenbook.org/)
 - [DIY History](https://diyhistory.lib.uiowa.edu/), crowd/student transcription.
+- [Topic Modeling Martha Ballard's Diary](http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/)
+- [Mining the Dispatch](http://dsl.richmond.edu/dispatch/), topic modeling fugitive slave ads from the Richmond Dispatch
 
 ## Tools:
 
@@ -94,6 +100,8 @@ ed. Kevin Kee (University of Michigan Press, 2014), [DOI:10.3998/dh.12544152.000
 - [DADAlytics NER demo](http://semlab.io/DADAlytics_ner_demo/)
 - [Recogito](https://recogito.pelagios.org/), annotation tool.
 - [Tropy](https://tropy.org/), research photo management.
+- [MALLET](http://mallet.cs.umass.edu/topics.php), topic modeling tool.
+- [AntConc](http://www.laurenceanthony.net/software/antconc/), text analysis tool.
 
 ## Tutorials:
 
