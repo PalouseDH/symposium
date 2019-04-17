@@ -27,6 +27,8 @@
 - Moretti, Franco. (2003). ["Graphs, Maps, Trees."](https://www.mat.ucsb.edu/~g.legrady/academic/courses/09w259/Moretti_graphs.pdf) *New Left Review* 24.
 - Folsom, Ed. (2007). ["Database as Genre: The Epic Transformation of Archives."](http://digitalrhetoricandnetworkedcomposition.web.unc.edu/files/2016/01/folsom-database-as-genre.pdf) *PMLA* 122, no. 5: 1571-1579.
 - Cooper, David, and Ian N. Gregory. (2011). ["Mapping the English Lake District: A Literary GIS"](https://www.jstor.org/stable/23020843) *Transactions of the Institute of British Geographers* 36, no. 1: 89-108.
+- Klein, Lauren F. (2013). "The Image of Absence: Archival Silence, Data Visualization, and James Hemings" DOI: [10.1215/00029831-2367310](https://doi.org/10.1215/00029831-2367310) *American Literature* 85, no. 4: 661-688.
+
 
 ## Books:
 
