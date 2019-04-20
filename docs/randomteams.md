@@ -6,41 +6,42 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/dawid-zawila-251904-unsplash.jpg
 ---
+{% assign fellows = site.data.fellows | where: "year","2019" | sort: "name" %}
 # Random Teams
 
-## [Team Pea](https://docs.google.com/spreadsheets/d/11h18foVQXG3aK5cEuFHH-uCBnqsV5vtb3_cYPXSiYds/edit?usp=sharing)
+<button class="btn btn-primary" id="genTeams">Generate New Teams</button>
+<div id="teams"></div>
 
-<div style="width:48%;float:left;">
-<img src="" id="teamwsu0" style="width:200px;">
-</div>
-<div style="width:48%;float:left;">
-<img src="" id="teamui0" style="width:200px;">
-</div>
-<div style="clear:both;"></div>
-<hr />
-
-## [Team Lentil](https://docs.google.com/spreadsheets/d/1vHdzLNAIzn4_6F6VP2LouRIy8ubhOPWn_4hVRRZm8o8/edit?usp=sharing)
-
-<div style="width:48%;float:left;">
-<img src="" id="teamwsu1" style="width:200px;">
-</div>
-<div style="width:48%;float:left;">
-<img src="" id="teamui1" style="width:200px;">
-</div>
-
-<div style="clear:both;"></div>
-<hr />
-
-## [Team Garbanzo](https://docs.google.com/spreadsheets/d/15OWFhRFXrgNoTuCFB5rzqarIMZcmDjzBx1KHmzONq3I/edit?usp=sharing)
-
-<div style="width:48%;float:left;">
-<img src="" id="teamwsu2"  style="width:200px;">
-</div>
-<div style="width:48%;float:left;">
-<img src="" id="teamui2" style="width:200px;">
-</div>
-<div style="clear:both;"></div>
-<hr />
-
-{% include js/teams.html %}
-
+<script>
+  var teamNames = ["Pea","Lentil","Garbanzo"];
+  var fellows = [{% for f in fellows %}["{{ f.name }}","{{ f.image }}"]{% unless forloop.last %}, {% endunless %}{% endfor %}];
+  var teams = document.getElementById("teams");
+  /* Fisher-Yates shuffle https://bost.ocks.org/mike/shuffle/ */
+  function shuffle(array) {
+    var m = array.length, t, i;
+    while (m) {
+    i = Math.floor(Math.random() * m--);
+    t = array[m];
+    array[m] = array[i];
+    array[i] = t;
+    }
+    return array;
+  }
+  function createTeams() {
+    var newTeams = "";
+    var newFellows = [].concat(fellows);
+    var teams = document.getElementById("teams");
+    shuffle(newFellows);
+    var i;
+    for (i = 0; i < 3; i++) {
+      var newF;
+      newTeams += "<h2>Team " + teamNames[i] + "</h2><div>";
+      newF = newFellows.pop();
+      newTeams += '<figure style="max-width:200px;float:left;"><img src="{{ site.baseurl }}/assets/images/' + newF[1] + '" alt="' + newF[0] + '"><figcaption>' + newF[0] + '</figcaption></figure>';
+      newF = newFellows.pop();
+      newTeams += '<figure style="max-width:200px;float:left;"><img src="{{ site.baseurl }}/assets/images/' + newF[1] + '" alt="' + newF[0] + '"><figcaption>' + newF[0] + '</figcaption></figure></div><div style="clear:both;"></div><hr>';
+    }
+    teams.innerHTML = newTeams;
+  }
+  document.getElementById("genTeams").onclick = function () { createTeams(); };
+</script>
