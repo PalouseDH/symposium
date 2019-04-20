@@ -18,6 +18,7 @@ Fellows include faculty and graduate students interested in expanding their work
 
 ## 2019
 
+<hr>
 {% assign fellows = site.data.fellows | where: "year","2019" | sort: "name" %}
 {% for fellow in fellows %}
 <div style="clear:both"></div>
