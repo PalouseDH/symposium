@@ -16,6 +16,16 @@ header:
 Symposium Fellows are selected via a competitive award process at WSU and UI.
 Fellows include faculty and graduate students interested in expanding their work with digital scholarship tools, projects, and processes.
 
-## 2018
+## 2019
 
-{% include fellows.html %}
+{% assign fellows = site.data.fellows | where: "year","2019" | sort: "name" %}
+{% for fellow in fellows %}
+<div style="clear:both"></div>
+<img src="{{site.baseurl}}/assets/images/{{fellow.image}}" style="float:right; margin:20px 0px 20px 20px;max-width:180px;"/>
+<h2 id="{{ fellow.image | remove: '.jpg' }}">{{ fellow.name }}</h2>
+<h4>{{ fellow.title }} <br>{{ fellow.school }}</h4>
+<h3>{{ fellow.project }}</h3>
+<p>{{ fellow.projectdescription }}</p>
+<div style="clear:both"></div>
+<hr>
+{%endfor%}
