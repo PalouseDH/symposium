@@ -38,15 +38,24 @@
 
 **Afternoon**
 
-1-1:30
+1:00 - 2:00
 
-1-2
+Share Your Work from the morning ---
 
 
-2-3
+
 
 
 ## DH Discussion Session
+
+2:00 -  3:00
+
+Discussion of readings
+
+- Christen, Kimberly. (2018) “Relationships not Records: Digital Heritage and the Ethics of Sharing Indigenous Knowledge Online." in Routledge Companion to Media Studies and Digital Humanities, edited by Jentery Sayers. Routledge: Taylor and Francis,pp. 403-412. (http://www.kimchristen.com/wp-content/uploads/2018/05/41christenKimberly.pdf)
+
+3:00 - 4:00
+
 
 -----------------------
 
