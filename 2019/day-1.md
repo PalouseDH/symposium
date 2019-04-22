@@ -29,29 +29,22 @@
 - Mukurtu Digital Heritage Items demo
   - Activity: Create DH items
   - [Creating Digital Heritage Items](http://support.mukurtu.org/customer/en/portal/articles/2558808-how-to-create-digital-heritage-items)
+  - Community Records
   - Activity: Create Collections
   - [Creating Collections](http://support.mukurtu.org/customer/portal/articles/2558820)
 
 11:30-12:00
-- Mukurtu User Roles introduction
-  - Activity: Mukurtu User Roles Planning
-   - [How do User Roles work?](http://support.mukurtu.org/customer/en/portal/articles/2430079-how-do-user-roles-and-permissions-work-)
-   - [Adding Users to Protocols](http://support.mukurtu.org/customer/en/portal/articles/2559499-how-to-add-users-to-communities-and-cultural-protocols-and-manage-group-roles)
+- Subbing out user roles for something else
 
 **Afternoon**
 
 1-1:30
-- User Roles
 
 1-2
-- Advanced Features demo
-  - [Community Records](http://support.mukurtu.org/customer/en/portal/articles/2433020-how-to-create-community-records?b_id=633)
-  - Dictionary
-  - [Person Records and Media Content Warnings](http://support.mukurtu.org/customer/en/portal/topics/1097769-mukurtu-taxonomy-records/articles?b_id=633)
+
 
 2-3
-- Batch Import demo
-  - Activity: Batch Import (basic)
+
 
 ## DH Discussion Session
 
