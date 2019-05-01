@@ -6,11 +6,11 @@
 
 - Reflect, discuss, debrief.
 
-## Outline
-
-- "How did they do that?" discussion - share a DH project you are interested in and dissect as a group.
+# Outline
 
 ## Morning
+
+- "How did they do that?" discussion - share a DH project you are interested in and dissect as a group.
 
 -----------------------
 
