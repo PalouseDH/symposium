@@ -1,6 +1,6 @@
 # Collections as Data: GitHub and CollectionBuilder
 
-> Tuesday, May 14th, 9:00am - 4:00pm, CDSC.
+> Tuesday, May 14th, 9:00am - 4:00pm, CDIL.
 
 ## Objectives
 
