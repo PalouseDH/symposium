@@ -11,6 +11,8 @@
 ## Morning
 
 - "How did they do that?" discussion - share a DH project you are interested in and dissect as a group.
+- Discuss projects, new ideas/directions
+- Lunch?
 
 -----------------------
 
