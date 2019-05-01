@@ -1,4 +1,4 @@
-# Digital Scholarship: Text and Data Analysis
+# Text as Data: Analysis and Modeling
 
 > Thursday, May 16th, 9:00am - 4:00pm, CDIL.
 
