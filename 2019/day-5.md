@@ -1,4 +1,4 @@
-# Digital Pedagogy and Summer Fellows Pitch Presentations
+# Reflection (take a deep breath!)
 
 > Friday, May 17th, 9:00am - 1:00pm, CDSC.
 
@@ -7,6 +7,8 @@
 - Reflect, discuss, debrief.
 
 ## Outline
+
+- "How did they do that?" discussion - share a DH project you are interested in and dissect as a group.
 
 ## Morning
 
