@@ -1,20 +1,28 @@
-# Collections as Data: GitHub and CollectionBuilder
+# Collections as Data: Web and APIs
 
 > Tuesday, May 14th, 9:00am - 4:00pm, CDIL.
 
 ## Objectives
 
-- Critical understanding of digitization and the data of DH.
-- Digital literacy with digital files, data, and metadata.
-- Critical web literacy: `viewsource` and explore "how did they make that".
+- Critical understanding of collections as data.
+- Understand the concept of web APIs.
+- Literacy with digital files, data, and metadata.
+- Critical web literacy: `viewsource`, markup languages, and Markdown.
 
 # Outline:
 
 ## Morning
 
+- OpenRefine: data and APIs
+
 ## Afternoon
 
+- GitHub, GitHub Pages
+- HTML, Markdown
+
 ## DH Discussion Session
+
+- Collections as Data
 
 -----------------------
 
