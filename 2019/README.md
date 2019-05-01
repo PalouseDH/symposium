@@ -10,9 +10,9 @@ Outlines: [0](day-0.md) | [1](day-1.md) | [2](day-2.md) | [3](day-3.md) | [4](da
 | --- | --- | --- |
 | Fri | [Day Zero: Introductions](day-0.md) | CDIL |
 | Mon | [Ethics and Access: Mukurtu](day-1.md) | CDSC |
-| Tue | [Collections as Data: GitHub and CollectionBuilder](day-2.md) | CDIL |
+| Tue | [Collections as Data: Web and APIs](day-2.md) | CDIL |
 | Wed | [Digital Publishing: Scalar and StoryMaps](day-3.md) | CDSC |
-| Thu | [Digital Scholarship: Text and Data Analysis](day-4.md) | CDIL |
+| Thu | [Text as Data: Analysis and Modeling](day-4.md) | CDIL |
 | Fri | [Reflection / Debrief](day-5.md) | CDSC |
 
 ## Information
