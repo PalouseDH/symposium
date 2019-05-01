@@ -48,6 +48,7 @@ ed. Kevin Kee (University of Michigan Press, 2014), [DOI:10.3998/dh.12544152.000
 - [DH Commons](http://dhcommons.org/), projects listings, conferences, etc.
 - [THAT camp](http://thatcamp.org/), unconference type events.
 - [DHSI](http://www.dhsi.org/), summer camp in Victoria, BC--year round news email list.
+- [The Association for Computers and the Humanities (ACH)](http://ach.org/), professional society for the digital humanities + [The Alliance of Digital Humanities Organizations (ADHO)](http://adho.org/) (international DH org of orgs)
 
 ## DH Labs
 
@@ -131,6 +132,7 @@ ed. Kevin Kee (University of Michigan Press, 2014), [DOI:10.3998/dh.12544152.000
 - [Open Access Companion to the Canterbury Tales](https://opencanterburytales.dsl.lsu.edu/)
 - Chris Bail, [Text as Data](https://cbail.github.io/textasdata/Text_as_Data.html).
 - Moacir P. de Sá Pereira, [The JavaScripting English Major](https://the-javascripting-english-major.org)
+- Johanna Drucker, [DH 101](http://dh101.humanities.ucla.edu/), 2013.
 
 ## Fun 
 
