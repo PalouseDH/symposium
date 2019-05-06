@@ -5,29 +5,18 @@
 ## Objectives
 
 - Critical understanding of text as data.
-- Explore text visualization.
+- Explore text analysis, machine learning, and visualization.
 
-## Outline: 
+# Outline: 
 
 ## Morning
 
-### Text and Data Analysis 
-
-- Ted Underwood and Jordan Sellers, ["How Quickly Do Literary Standards Change?"](https://figshare.com/articles/How_Quickly_Do_Literary_Standards_Change_/1418394). 
-    - article explicitly explains the research process, from collecting/selecting data to analysis. Published as a draft with more content, questions, and illustrations than are allowed in a traditional article. Also published traditionally as, Jordan Sellers and Ted Underwood, "The Longue Durée of Literary Prestige", MLQ 77:3 (2016).
-- [paceofchange](https://github.com/tedunderwood/paceofchange) (2015). (GitHub repository sharing code to reproduce analysis reported in his article ["How Quickly Do Literary Standards Change?"](https://figshare.com/articles/How_Quickly_Do_Literary_Standards_Change_/1418394). The article explicitly explains the research process, from collecting/selecting data to analysis.)
-- research question > data set > predictive modeling > features
-    - "modeling-to-explain and modeling-to-predict"
-- outputs: code, data, articles
-- Key points from Underwood: 
-    - "Computational methods are transforming the social and natural sciences as much as the humanities"
-    - "new methods make it easier to represent unstructured text in a statistical model"
-    - "the goal of computational analysis is not, after all, to reproduce the modes of understanding readers have already achieved."
+### Text as Data Overview
 
 text analysis: 
 
-- structured data vs. unstructured data. techniques to take unstructured > statistical models.
-- Printed text > data = OCR. 
+- structured data vs. unstructured data. techniques to take unstructured -> statistical models.
+- Printed text -> data = OCR. 
     - process: digitization, image preprocessing, segmentation + layout detection, OCR, text post-processing.
     - noise, normalization. comparisons? 
     - [dhSegment](https://dhlab-epfl.github.io/dhSegment/).
@@ -38,16 +27,7 @@ text analysis:
     - Supervised vs. Unsupervised classification
     - [Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35) (work on curating training data sets, rather than developing software, machine learning does the rest!)
 
-### Discussion How Did They Make That? 
-
-- DH projects deconstructions: explore source data, people, tools, outputs.
-    - Miriam Posner, [How did they make that?](http://miriamposner.com/blog/how-did-they-make-that/) 
-    - DH Commons: [How did they make that? Programming Historian](http://dhcommons.org/journal/issue-1/editorial-sustainability-and-open-peer-review-programming-historian).
-    - Sustainability? (how many dead projects have you seen?)
-- Parking Lot
-    - any questions we should discuss?
-
-### Text visualization & analysis tool discussion and play time
+### Text Analysis Hands-on
 
 - Quick discussion of tools that y'all are using or tools that can be used to visualize or analyze data.
     - [Voyant Tools](https://voyant-tools.org/)
@@ -64,8 +44,17 @@ text analysis:
 
 ## Afternoon
 
-- Group work time
-- Field trip: VR demos, The MILL (time permitting)
+### Discussion Session
+
+- Ted Underwood, ["Seven Ways Humanists are Using Computers to Understand Text"](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) (2015). (intro overview of types of computational analysis)
+- Ted Underwood and Jordan Sellers, ["How Quickly Do Literary Standards Change?"](https://figshare.com/articles/How_Quickly_Do_Literary_Standards_Change_/1418394). 
+    - article explicitly explains the research process, from collecting/selecting data to analysis. Published as a draft with more content, questions, and illustrations than are allowed in a traditional article. Also published traditionally as, Jordan Sellers and Ted Underwood, "The Longue Durée of Literary Prestige", MLQ 77:3 (2016). Additionally, a GitHub repository shares the code necissary to reproduce the analysis, [paceofchange](https://github.com/tedunderwood/paceofchange) (2015).
+    - Key points:
+        - Outputs: data, code, and articles!
+        - "modeling-to-explain and modeling-to-predict"
+        - "Computational methods are transforming the social and natural sciences as much as the humanities"
+        - "new methods make it easier to represent unstructured text in a statistical model"
+        - "the goal of computational analysis is not, after all, to reproduce the modes of understanding readers have already achieved."
 
 ## Resources 
 
@@ -80,6 +69,7 @@ text analysis:
 - Gideon Lewis-Kraus, [The Great A.I. Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html) (2016)
 - SAM KEAN, [Artificial Intelligence Is Cracking Open the Vatican's Secret Archives](https://www.theatlantic.com/technology/archive/2018/04/vatican-secret-archives-artificial-intelligence/559205/) (2018)
 - Donatella Firmani, Marco Maiorino, Paolo Merialdo, Elena Nieddu, [Towards Knowledge Discovery from the Vatican Secret Archives.](https://arxiv.org/pdf/1803.03200.pdf) (2018)
+- Andrej Karpathy, [Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35) (2017). (work on curating training data sets, rather than developing software, machine learning does the rest!)
 
 Learning resources:
 
