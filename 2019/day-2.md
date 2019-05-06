@@ -22,7 +22,18 @@
 
 ## DH Discussion Session
 
-- Collections as Data
+Please look for a DH project that interests you, then:
+
+- see if you can find background information about the project such as the data, people, tools, and outputs.
+- share with the project with the group, using [Issue #12](https://github.com/PalouseDH/symposium/issues/12)
+- we will discuss and deconstruct together
+
+#### How Did They Make That? 
+
+- DH projects deconstructions: explore source data, people, tools, outputs.
+    - Miriam Posner, [How did they make that?](http://miriamposner.com/blog/how-did-they-make-that/) 
+    - DH Commons: [How did they make that? Programming Historian](http://dhcommons.org/journal/issue-1/editorial-sustainability-and-open-peer-review-programming-historian).
+    - Sustainability? (how many dead projects have you seen?)
 
 -----------------------
 
