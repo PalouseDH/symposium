@@ -34,7 +34,7 @@
   - [Creating Collections](http://support.mukurtu.org/customer/portal/articles/2558820)
 
 11:30-12:00
-- Subbing out user roles for something else
+- Traditional Knowledge Labels
 
 **Afternoon**
 
