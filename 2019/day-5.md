@@ -9,8 +9,8 @@
 # Outline
 
 ## Morning
-
-- "How did they do that?" discussion - share a DH project you are interested in and dissect as a group.
+### Discussion Session
+- Gil, Alex. (2015, May 21). [The User, The Learner and the Machines We Make.] (http://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/)
 - Discuss projects, new ideas/directions
 - Lunch?
 
