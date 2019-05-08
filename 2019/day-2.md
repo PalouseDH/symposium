@@ -28,7 +28,7 @@
 
 ## Afternoon
 
-HTML basics: Mini- Web Crash Course
+HTML basics: [Mini- Web Crash Course](https://evanwill.github.io/mini-web-crash-course/)
 
 - Introduce GitHub
 - Critical web literacy: `viewsource`, markup languages, and Markdown.
