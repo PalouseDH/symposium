@@ -1,4 +1,4 @@
-# Palouse Digital Scholarship Symposium
+# 2019 Palouse Digital Scholarship Symposium
 
 > May 10th - 17th, 2019 | <https://palousedh.github.io/symposium/>
 
