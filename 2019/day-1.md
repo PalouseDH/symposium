@@ -13,7 +13,7 @@
 **Morning** 
 
 9-10
-- Mukurtu CMS Overview and discussion of 
+- Mukurtu CMS Overview and discussion of Mukurtu and Digital Inclusion
 - Mukurtu 3Cs introduction
   - Activity: Mukurtu 3Cs planning
 
