@@ -13,12 +13,25 @@
 
 ## Morning
 
-- OpenRefine: data and APIs
+- Overview of collections as data
+- Introduce APIs:
+    - [Intro](https://evanwill.github.io/hey-api/content/0-intro.html)
+    - [URLs](https://evanwill.github.io/hey-api/content/1-urls.html)
+    - IIIF and Chronam with [GET](https://evanwill.github.io/hey-api/content/2-get.html)
+- *Break*
+- Introduce OpenRefine:
+    - [About Refine](https://evanwill.github.io/clean-your-data/1-about.html)
+    - [Messy data](https://evanwill.github.io/clean-your-data/2-messy.html)
+    - [Install](https://evanwill.github.io/clean-your-data/3-start.html)
+- *Break*
+- OpenRefine + APIs
 
 ## Afternoon
 
-- GitHub, GitHub Pages
-- HTML, Markdown
+HTML basics: Mini- Web Crash Course
+
+- Introduce GitHub
+- Critical web literacy: `viewsource`, markup languages, and Markdown.
 
 ## DH Discussion Session
 
@@ -42,8 +55,11 @@ Please look for a DH project that interests you, then:
 
 Workshops/tutorials: 
 
+- [Getting Started with OpenRefine: Explore, Clean, and Transform your Data!](https://evanwill.github.io/clean-your-data/)
 - [Fetching and Parsing Data from the Web with OpenRefine](https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine)
 - [Hey API!](https://evanwill.github.io/hey-api/)
+- [Go-Go GH-Pages!](https://evanwill.github.io/go-go-ghpages/)
+- [Get Git!](https://evanwill.github.io/get-git/)
 
 -----------------------
 
