@@ -10,7 +10,7 @@
 
 ## Outline: 
 
-###Morning 
+### Morning 
 
 9-10
 - Mukurtu CMS Overview and discussion of Mukurtu and Digital Inclusion
@@ -36,7 +36,7 @@
 11:30-12:00
 - Traditional Knowledge Labels
 
-###Afternoon
+### Afternoon
 
 - Sharing out from the morning
   - Mukurtu work
