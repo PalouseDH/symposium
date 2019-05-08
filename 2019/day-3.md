@@ -69,7 +69,7 @@ Web Portal](https://plateauportal.libraries.wsu.edu/). See also [TK Labels](http
 
 ## DH Discussion Session
 
--  [Photogrammar](http://photogrammar.yale.edu/)  – Dr. Roopika Risam 
+-  [Mapping Migration: Beyond the Migrant “Problem”](http://photogrammar.yale.edu/)  – Dr. Roopika Risam 
 
 -----------------------
 
