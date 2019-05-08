@@ -69,7 +69,7 @@ Web Portal](https://plateauportal.libraries.wsu.edu/). See also [TK Labels](http
 
 ## DH Discussion Session
 
-- Mapping Migration: Beyond the Migrant “Problem”  – Dr. Roopika Risam 
+- [Mapping Migration: Beyond the Migrant “Problem”] (https://youtu.be/S97u86cy7ug)  – Dr. Roopika Risam 
 
 -----------------------
 
