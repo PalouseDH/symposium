@@ -6,9 +6,9 @@
 
 - Welcome, Introductions, and Logistics
 - Overview of Symposium Themes and Goals
-    - [Ethics and Access: Mukurtu](day-1.md) (Annie and Will)
+    - [Ethics and Access: Mukurtu](day-1.md) (Kim)
     - [Collections as Data: Web and APIs](day-2.md) (Evan)
-    - [Digital Publishing: Scalar and StoryMaps](day-3.md) (Annie and Will)
+    - [Digital Publishing: Scalar and StoryMaps](day-3.md) (Alex)
     - [Text as Data: Analysis and Modeling](day-4.md) (Olivia)
 - Mukurtu project overview (Kim)
 - Icebreaker...
