@@ -29,6 +29,16 @@
     
 - [Story Maps slides](https://docs.google.com/presentation/d/19B5DZQox3AfG03Kz1400QpMIwDdQ9l0hWOHvz912K48/edit?usp=sharing)
 
+- Examples from presentation:
+    - http://wsuniv.maps.arcgis.com/apps/StoryMapBasic/index.html?appid=4fc4c009f5904b6b8510298c8dfad5f9
+    - http://sonomavegmap.org/1942/
+    - https://story.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=97ae55e015774b7ea89fd0a52ca551c2&webmap=60a6d8d2ab754250918e7fc21d7ac999
+    - https://smcmaps.maps.arcgis.com/apps/Shortlist/index.html?appid=b2a271a1f45e46ca9336557cbe0bfd59
+    - https://gctrust.maps.arcgis.com/apps/MapJournal/index.html?appid=97ef95f74b1348ca9df93c713605b6db#
+    - http://grid-arendal.maps.arcgis.com/apps/Cascade/index.html?appid=05f6dc47c20a41d8a0df68c0c99cc2f2
+    - https://storymaps.esri.com/stories/2018/bishkek-tour/
+    - https://nation.maps.arcgis.com/apps/MapSeries/index.html?appid=829a63a3553048fa8025993a238fad78
+
 ## Afternoon
 
 - Mid-week check in.
