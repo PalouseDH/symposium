@@ -1,4 +1,4 @@
-# Digital Publishing: Scalar and StoryMaps
+# Digital Publishing: Scalar and Story Maps
 
 > Wednesday, May 15th, 9:00am - 4:00pm, CDSC.
 
@@ -26,6 +26,8 @@
     - http://photohistory.oregonstate.edu/works/photo-history/index 
     - http://publications.newberry.org/dig/creating-shakespeare
     - http://publications.newberry.org/dig/rc-transcribe/italian-religious-broadsides
+    
+- [Story Maps slides](https://docs.google.com/presentation/d/19B5DZQox3AfG03Kz1400QpMIwDdQ9l0hWOHvz912K48/edit?usp=sharing)
 
 ## Afternoon
 
