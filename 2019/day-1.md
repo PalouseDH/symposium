@@ -16,6 +16,7 @@
 - Mukurtu CMS Overview and discussion of Mukurtu and Digital Inclusion
 - Mukurtu 3Cs introduction
   - Activity: Mukurtu 3Cs planning
+  - [Activity files for download](https://drive.google.com/drive/folders/1va50WpVPu6MAeht6DfxtuMQcABC20ZdO?usp=sharing)
 
 10-11:30
 - 3Cs demo
