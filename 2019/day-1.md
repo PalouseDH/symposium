@@ -13,6 +13,7 @@
 ### Morning 
 
 9-10
+- [Instructions for obtaining a Guest Wifi Password](https://confluence.esg.wsu.edu/display/KB/WiFi+-+WSU+Guest+Wireless+Using+ClearPass+Authentication)
 - Mukurtu CMS Overview and discussion of Mukurtu and Digital Inclusion
 - Mukurtu 3Cs introduction
   - Activity: Mukurtu 3Cs planning
