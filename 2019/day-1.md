@@ -30,7 +30,7 @@
   - [Creating Cultural Protocols](http://support.mukurtu.org/customer/en/portal/articles/2432755-how-to-create-cultural-protocols)
 
 - Mukurtu Digital Heritage Items demo
-  -[Slides](https://drive.google.com/open?id=1jhRKgrfzp_lY9aauOO0KT4DAPkf9-wbe)
+  - [Slides](https://drive.google.com/open?id=1jhRKgrfzp_lY9aauOO0KT4DAPkf9-wbe)
   - Activity: Create Digital Heritage items
   - [Creating Digital Heritage Items](http://support.mukurtu.org/customer/en/portal/articles/2558808-how-to-create-digital-heritage-items)
   - Community Records
