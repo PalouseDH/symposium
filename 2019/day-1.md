@@ -21,6 +21,7 @@
 
 10-11:30
 - 3Cs demo
+  - [Slides](https://drive.google.com/open?id=1y38maPoYM38bWyxrtM3dmVftNNkURjjy)
   - Activity: Create 3Cs
   - [Set your password!](http://cdsc.libraries.wsu.edu/PalouseDH/user/password) (usernames are firstinitiallastname, eg: mwynne)
   - [Getting Started with Mukurtu CMS](http://support.mukurtu.org/customer/en/portal/articles/2794448-getting-started-with-mukurtu-cms) (includes links in article)
@@ -29,6 +30,7 @@
   - [Creating Cultural Protocols](http://support.mukurtu.org/customer/en/portal/articles/2432755-how-to-create-cultural-protocols)
 
 - Mukurtu Digital Heritage Items demo
+  -[Slides](https://drive.google.com/open?id=1jhRKgrfzp_lY9aauOO0KT4DAPkf9-wbe)
   - Activity: Create Digital Heritage items
   - [Creating Digital Heritage Items](http://support.mukurtu.org/customer/en/portal/articles/2558808-how-to-create-digital-heritage-items)
   - Community Records
