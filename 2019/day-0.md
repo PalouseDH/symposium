@@ -10,9 +10,11 @@
     - [Collections as Data: Web and APIs](day-2.md) (Evan)
     - [Digital Publishing: Scalar and StoryMaps](day-3.md) (Alex)
     - [Text as Data: Analysis and Modeling](day-4.md) (Olivia)
+- *Break and chat time*
 - Mukurtu project overview (Kim)
-- Icebreaker...
-- Tech setup/check-in session
+- Icebreaker... [What is Digital Humanities?](https://whatisdigitalhumanities.com/)
+
+- *Social hour at Alehouse*
 
 -----------------------
 
