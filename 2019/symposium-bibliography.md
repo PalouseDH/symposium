@@ -66,6 +66,15 @@
 
 * Underwood, Ted. (2015, June 4). [Seven Ways Humanists are Using Computers to Understand Text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) [blog post]. 
   *  A blog post that provides an introductory overview of the types of computational analysis.
+  
+* Underwood, Ted, & Sellers, Jordan. (2015, June 19). [How Quickly Do Literary Standards Change?](https://figshare.com/articles/How_Quickly_Do_Literary_Standards_Change_/1418394) [blog post].
+  *  An article which aims to explain how “literary significance itself was created and transformed” using data drawn from samples of poetry and fiction across the century 1820-1919. [Supporting Data](https://github.com/tedunderwood/paceofchange) for the article is available at the link.
+  
+* Underwood, Ted, Bamman, David, & Lee, Sabrina. (2018). [The Transformation of Gender in English-Language Fiction.](http://culturalanalytics.org/2018/02/the-transformation-of-gender-in-english-language-fiction/) *Journal of Cultural Analytics*. 
+  *  Article exploring the “changing significance of gender in fiction, asking especially whether its prominence in characterization has varied from the end of the eighteenth century to the beginning of the 21st.” [Supporting data set](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZM2MAN) is available for replication. 
+  
+* Underwood, Ted. (2018, February 28). [New Methods Need a New Kind of Conversation](https://tedunderwood.com/2018/02/28/raising-the-standards-for-computation-in-the-humanities/) [blog post]. 
+  *  A blog post calling for open data and code in the Humanities.
 
 ## Books:
 
