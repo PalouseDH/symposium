@@ -31,7 +31,23 @@
 * Karpathy, Andrej. (2017, November 11). [Software 2.0.](https://medium.com/@karpathy/software-2-0-a64152b37c35) *Medium*.
   *  An overview of neural networks in which the author argues that are the beginning of a “fundamental shift in how software is written.”
 
+*  Klein, Lauren F. (2013). [The Image of Absence: Archival Silence, Data Visualization, and James Hemings.](https://read.dukeupress.edu/american-literature/article/85/4/661-688/4953) *American Literature 85(4)*, 661-688.
+  *  This essay looks at how computational linguistics and data visualization can be used to  “animate the mysteries of the past” as a means of countering the “silences endemic to the archive of American slavery”. This work also discusses the difficulties associated with viewing the archive of slavery via a DH lens. The author compares visualizations of the archival trace of James Hemings (Thomas Jefferson’s enslaved chef) with Jefferson’s own charts and tables to demonstrate how we must rethink “the empiricist epistemology of the visible that endures to this day.” 
+
+* Lewis-Kraus, Gideon. (2016, December 14.) [The Great A.I. Awakening.](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html) *The New York Times*. 
+  *  An article describing Google Translate’s rapid improvement following the incorporation of machine learning.
   
+ * McPherson, Tara. (2012). [Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation.](http://dhdebates.gc.cuny.edu/debates/text/29) In M. Gold & L. Klein (Eds.), *Debates in the Digital Humanities*.
+   *  An essay outlining the the need to close the gap between topics of race, immigration, and neoliberalism with data tools and infrastructure. The author outlines how the difficulty in doing so is due to the inherent nature of technological systems designed in the post-WWII computational culture.
+   
+* Moretti, Franco. (2000). [The Slaughterhouse of Literature.](https://msu.edu/course/eng/487/snapshot.afs/johnsen/61.1moretti.pdf) *MLQ: Modern Language Quarterly 61(1)*, 207-227.
+  *  A book chapter which examines the idea that the historical literary canon represents a tiny fraction of the literary works of a given period (and the forgotten or unread books are therefore “slaughtered”). The author focuses on what he calls “rivals: contemporaries who write more or less like canonical authors (in my case, more or less like Arthur Conan Doyle), but not quite.” From this work the author hopes to “come up with a new sense of the literary field as a whole.”  
+  
+* Moretti, Franco. (2003). [Graphs, Maps, Trees.](https://www.mat.ucsb.edu/~g.legrady/academic/courses/09w259/Moretti_graphs.pdf) *New Left Review 24*, 67-93.
+  *  Three interrelated articles which together discuss the changes that have occured in the study of literature using models “drawn from three disciplines—quantitative history, geography and evolutionary theory: graphs, maps and trees.”
+  
+*
+  *  
 - Sayers, Jentery (2018) "Locating Praxis in Digital Studies: Designing Courses for Graduate Students," https://jentery.github.io/uw/ 
 - Posner, Miriam (2014) “Commit to DH People, Not DH Projects," http://miriamposner.com/blog/commit-to-dh-people-not-dh-projects/
 - Gil, Alex (2015) “The User, The Learner and the Machines We Make,” http://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/.
