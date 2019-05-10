@@ -31,7 +31,7 @@
 * Karpathy, Andrej. (2017, November 11). [Software 2.0.](https://medium.com/@karpathy/software-2-0-a64152b37c35) *Medium*.
   *  An overview of neural networks in which the author argues that are the beginning of a “fundamental shift in how software is written.”
 
-*  Klein, Lauren F. (2013). [The Image of Absence: Archival Silence, Data Visualization, and James Hemings.](https://read.dukeupress.edu/american-literature/article/85/4/661-688/4953) *American Literature 85(4)*, 661-688.
+* Klein, Lauren F. (2013). [The Image of Absence: Archival Silence, Data Visualization, and James Hemings.](https://read.dukeupress.edu/american-literature/article/85/4/661-688/4953) *American Literature 85(4)*, 661-688.
   *  This essay looks at how computational linguistics and data visualization can be used to  “animate the mysteries of the past” as a means of countering the “silences endemic to the archive of American slavery”. This work also discusses the difficulties associated with viewing the archive of slavery via a DH lens. The author compares visualizations of the archival trace of James Hemings (Thomas Jefferson’s enslaved chef) with Jefferson’s own charts and tables to demonstrate how we must rethink “the empiricist epistemology of the visible that endures to this day.” 
 
 * Lewis-Kraus, Gideon. (2016, December 14.) [The Great A.I. Awakening.](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html) *The New York Times*. 
@@ -46,8 +46,9 @@
 * Moretti, Franco. (2003). [Graphs, Maps, Trees.](https://www.mat.ucsb.edu/~g.legrady/academic/courses/09w259/Moretti_graphs.pdf) *New Left Review 24*, 67-93.
   *  Three interrelated articles which together discuss the changes that have occured in the study of literature using models “drawn from three disciplines—quantitative history, geography and evolutionary theory: graphs, maps and trees.”
   
-*
-  *  
+* Posner, Miriam. (2014, March 18). [Commit to DH People, Not DH Projects](http://miriamposner.com/blog/commit-to-dh-people-not-dh-projects/) [blog post].
+  *  A proposal for switching from calls for DH projects to providing funding for fellowship programs. Potential benefits and sample programs are presented.
+  
 - Sayers, Jentery (2018) "Locating Praxis in Digital Studies: Designing Courses for Graduate Students," https://jentery.github.io/uw/ 
 - Posner, Miriam (2014) “Commit to DH People, Not DH Projects," http://miriamposner.com/blog/commit-to-dh-people-not-dh-projects/
 - Gil, Alex (2015) “The User, The Learner and the Machines We Make,” http://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/.
