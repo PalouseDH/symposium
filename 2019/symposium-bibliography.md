@@ -78,14 +78,26 @@
 
 ## Books:
 
-- [*Debates in the Digital Humanities*](http://dhdebates.gc.cuny.edu/) ed. Lauren F. Klein and Matthew K Gold (University Of Minnesota Press, 2016).
-- T. Mills Kelly, [*Teaching History in the Digital Age*](http://dx.doi.org/10.3998/dh.12146032.0001.001) (University of Michigan Press, 2013).
-- University of Michigan [Digital Humanities series](http://www.digitalculture.org/books/book-series/digital-humanities-series/) (open access ebooks)
-- *Pastplay: Teaching and Learning History with Technology*,
-ed. Kevin Kee (University of Michigan Press, 2014), [DOI:10.3998/dh.12544152.0001.001](http://dx.doi.org/10.3998/dh.12544152.0001.001).
-- Anne Burdick, Johanna Drucker, Peter Lunenfeld, Todd Presner, and Jeffrey Schnapp, [*DIGITAL_HUMANITIES*](https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf) (MIT Press, 2012).
-- Shawn Graham, Ian Milligan, and Scott Weingart, *Exploring Big Historical Data: The Historian's Macroscope* (Imperial College Press, 2015). ([website](http://www.themacroscope.org/2.0/) with sample data and code downloads)
-- [*Disrupting the Digital Humanities*](https://punctumbooks.com/titles/disrupting-the-digital-humanities/) ed. Dorothy Kim and Jesse Stommel (Punctum Books, 2018).
+* Burdick, A., Drucker, J., Lunenfeld, P., Presner, T., & Schnapp, J. (2012). [*Digital_Humanities.*](https://mitpress.mit.edu/books/digitalhumanities) Massachusetts: MIT Press. 
+  *  This book is a “compact work composed by a group of practitioners from a variety of humanities disciplines and fields, including design.” Those authors do not “privilege one lineage or another within the Digital Humanities, seeking instead an encompassing yet polemical voice that speaks both inside and outside the walls of the academy. Accordingly, our case studies are fictional, our quotations of specific figures and theorists sparing, and our language direct.” Download a pdf copy via the link at the bottom left of the page.
+  
+* Graham, S., Milligan, I., & Weingart, S. (2015). [*Exploring Big Historical Data: The Historian's Macroscope.*](http://www.themacroscope.org/2.0/) London: Imperial College Press.
+  *   A book available for purchase. An original final draft of the book is available online [here,](http://www.themacroscope.org/?page_id=584) while [this website](http://www.themacroscope.org/2.0/) contains links to sample data and code downloads.
+  
+* Gold, Matthew, & Klein, Lauren (Eds.). (2016). [*Debates in the Digital Humanities.*](http://dhdebates.gc.cuny.edu/) Minnesota: Minnesota University Press.
+  *  The open-access edition of Debates in the Digital Humanities, a “hybrid print/digital publication stream that explores debates in the field as they emerge.”
+  
+* Kee, Kevin (Ed.). (2014). [*Pastplay: Teaching and Learning History with Technology.*] (https://quod.lib.umich.edu/cgi/t/text/text-idx?cc=dh;c=dh;idno=12544152.0001.001;rgn=full%20text;view=toc;xc=1;g=dculture)Michigan: University of Michigan Press.
+  *  A collection of articles discussing the use of technology in teaching and studying history. It “seeks to provide a consideration of the ways in which technology can and cannot help us interact with the content and practices of the discipline.” Part 1 discusses the “content and practices of the discipline, and show that playful technologies can help students better understand the way historians and storytellers create history.” Part 2 focuses on “the roots of our craft, and show that a ludic sensibility lies at the heart of how we research, how we teach, and how we express ideas with computers.” Part 3 discusses “how communicating ideas with computers forces us to model our thoughts, and the development and use of these models can provide us with new insights into the subjects they represent.” Part 4 demonstrates that “ through the act of creating technologies, we can build our understanding of the past.”
+
+* Kelly, Mills T. (2013) [*Teaching History in the Digital Age.*] (https://www.fulcrum.org/concern/monographs/8w32r647k) Michigan: University of Michigan Press.
+  *  “The goal of this book is to challenge historians, but also others teaching in the humanities and social sciences, to think carefully about the ways that digital media are changing teaching and learning in our fields in the face of changes such as those mentioned earlier. At its most challenging, this book considers how the remix culture developing around and through new media is making it possible for our students (and us) to produce either new knowledge about the past, or old knowledge presented in new ways.”
+  
+* Kim, Dorothy, & Stommel, Jesse (Eds.). (2018). [*Disrupting the Digital Humanities.*](https://punctumbooks.com/titles/disrupting-the-digital-humanities/) California: Punctum Books.
+  *   This book “seeks to rethink how we map disciplinary terrain by directly confronting the gatekeeping impulse of many other so-called field-defining collections.” There is a link to free e-book at center of the linked page.
+  
+* University of Michigan: [*Digital Humanities series.*](http://www.digitalculture.org/books/book-series/digital-humanities-series/) 
+  *  A list of open access ebooks relating to Digital Humanities topics.
 
 ## DH Communities
 
