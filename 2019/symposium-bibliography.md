@@ -28,7 +28,7 @@
 * Gil, Alex. (2015, May 21). [The User, The Learner and the Machines We Make.](http://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/)
   *  An overview of minimalist computing centered on the question “what do we really need?”
   
-* Karpathy, Andrej. (2017, November 11). [Software 2.0.](https://medium.com/@karpathy/software-2-0-a64152b37c35)
+* Karpathy, Andrej. (2017, November 11). [Software 2.0.](https://medium.com/@karpathy/software-2-0-a64152b37c35) *Medium*.
   *  An overview of neural networks in which the author argues that are the beginning of a “fundamental shift in how software is written.”
 
   
