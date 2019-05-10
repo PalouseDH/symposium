@@ -11,7 +11,7 @@
     - [Digital Publishing: Scalar and StoryMaps](day-3.md) (Alex)
     - [Text as Data: Analysis and Modeling](day-4.md) (Olivia)
 - *Break and chat time*
-- Mukurtu project overview Slides
+- Mukurtu project overview [Slides](https://drive.google.com/open?id=17PN8hnOjen_EqxkZdc6LHebyLMxuqJ4Q)
 - Icebreaker... [What is Digital Humanities?](https://whatisdigitalhumanities.com/)
 
 - *Social hour at Alehouse*
