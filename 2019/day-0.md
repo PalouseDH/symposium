@@ -12,7 +12,8 @@
     - [Text as Data: Analysis and Modeling](day-4.md) (Olivia)
 - *Break and chat time*
 - Mukurtu project overview 
-- Icebreaker... [What is Digital Humanities?](https://whatisdigitalhumanities.com/)
+- Icebreaker... 
+    - Postits: one thing that excites you about DH / one thing that scares you about DH (if you need inspirations, [What is Digital Humanities?](https://whatisdigitalhumanities.com/))
     - [Team Generator](https://palousedh.github.io/symposium/randomteams/)
     - [Hello Arduino](https://evanwill.github.io/hello-arduino/)
 
