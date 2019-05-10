@@ -19,9 +19,19 @@
 * Cooper, David, & Gregory, Ian. (2011). [Mapping the English Lake District: A Literary GIS.](https://www.jstor.org/stable/23020843) *Transactions of the Institute of British Geographers 36(1)*, 89-108.
   *  An article which looks at the ability of GIS to map the spatial relationships of qualitative data. It focuses on a case study that uses the spatial relationships outlined in two literary works which describe tours of the English Lake district in 1769 and 1802. 
   
-- Jeffrey M. Binder, ["Alien Reading: Text Mining, Language Standardization, and the Humanities"](http://dhdebates.gc.cuny.edu/debates/text/69) in *Debates in the Digital Humanities* (2016).
-- Stanford Literary Lab [Pamphlets](http://litlab.stanford.edu/pamphlets/). (ongoing series of publications relating to "computational criticism")
-- Gideon Lewis-Kraus, [The Great A.I. Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html) (2016)
+* Folsom, Ed. (2007). [Database as Genre: The Epic Transformation of Archives.](http://digitalrhetoricandnetworkedcomposition.web.unc.edu/files/2016/01/folsom-database-as-genre.pdf) *PMLA 122(5)*, 1571-1579.
+  *  A discussion of the idea of using databases as a genre. It examines the Walt Whitman Archives, a project co-edited by the author, which is an online database of Whitman’s works. The database is constructed in a format the author believes is particularly suited to the “rhizomic” nature of Whitman.
+
+* Gallon, Kim. (2016). [Making the Case for the Black Digital Humanities.](http://dhdebates.gc.cuny.edu/debates/text/55) In M. Gold & L. Klein (Eds.), *Debates in the Digital Humanities*.
+  *  An essay discussing the “relationship between the digital humanities and Africana/African American/Black studies so as to highlight how technology can further expose humanity as a racialized social construction.”
+
+* Gil, Alex. (2015, May 21). [The User, The Learner and the Machines We Make.](http://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/)
+  *  An overview of minimalist computing centered on the question “what do we really need?”
+  
+* Karpathy, Andrej. (2017, November 11). [Software 2.0.](https://medium.com/@karpathy/software-2-0-a64152b37c35)
+  *  An overview of neural networks in which the author argues that are the beginning of a “fundamental shift in how software is written.”
+
+  
 - Sayers, Jentery (2018) "Locating Praxis in Digital Studies: Designing Courses for Graduate Students," https://jentery.github.io/uw/ 
 - Posner, Miriam (2014) “Commit to DH People, Not DH Projects," http://miriamposner.com/blog/commit-to-dh-people-not-dh-projects/
 - Gil, Alex (2015) “The User, The Learner and the Machines We Make,” http://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/.
