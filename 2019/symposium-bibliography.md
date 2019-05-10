@@ -49,23 +49,23 @@
 * Posner, Miriam. (2014, March 18). [Commit to DH People, Not DH Projects](http://miriamposner.com/blog/commit-to-dh-people-not-dh-projects/) [blog post].
   *  A proposal for switching from calls for DH projects to providing funding for fellowship programs. Potential benefits and sample programs are presented.
   
-- Sayers, Jentery (2018) "Locating Praxis in Digital Studies: Designing Courses for Graduate Students," https://jentery.github.io/uw/ 
-- Posner, Miriam (2014) “Commit to DH People, Not DH Projects," http://miriamposner.com/blog/commit-to-dh-people-not-dh-projects/
-- Gil, Alex (2015) “The User, The Learner and the Machines We Make,” http://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/.
-- Andrej Karpathy, [Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35), 2017.
-- Ramsay, Stephen "[The Hermeneutics of Screwing Around; or What You Do with a Million Books](https://libraries.uh.edu/wp-content/uploads/Ramsay-The-Hermeneutics-of-Screwing-Around.pdf)", 2010.
-- Gallon, Kim. (2016) ["Making the Case for the Black Digital Humanities."](http://dhdebates.gc.cuny.edu/debates/text/55) in Debates in the Digital Humanities.
-- Christen, Kimberly. (2012) "Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness." International Journal of Communication, Volume 6, 2870-2893. (http://ijoc.org/ojs/index.php/ijoc/article/view/1618)
-- Christen, Kimberly (2015) "On Not Looking: Economies of Visuality in Digital Museums," in the International Handbooks of Museum Studies: Museum Transformations, First Edition. Edited by Annie E. Coombes and Ruth B. Phillips. John Wiley & Sons, Ltd. Oxford Press, 365-386. (http://www.kimchristen.com/wp-content/uploads/2015/08/Christen_On_not_looking_205.pdf/)
-- Christen, Kimberly. (2018) “Relationships not Records: Digital Heritage and the Ethics of Sharing Indigenous Knowledge Online." in Routledge Companion to Media Studies and Digital Humanities, edited by Jentery Sayers. Routledge: Taylor and Francis,pp. 403-412. (http://www.kimchristen.com/wp-content/uploads/2018/05/41christenKimberly.pdf)
-- Posner, Miriam. (2016). ["What’s Next: The Radical, Unrealized Potential of Digital Humanities"](http://dhdebates.gc.cuny.edu/debates/text/54), in Debates in the Digital Humanities.
-- Risam, Roopika (2016) "[Navigating the Global Digital Humanities: Insights from Black Feminism](http://dhdebates.gc.cuny.edu/debates/text/80)",  in Debates in the Digital Humanities.
-- Moretti, Franco. (2000). ["The Slaughterhouse of Literature."](https://msu.edu/course/eng/487/snapshot.afs/johnsen/61.1moretti.pdf) *MLQ: Modern Language Quarterly* 61, no. 1: 207-227.
-- Moretti, Franco. (2003). ["Graphs, Maps, Trees."](https://www.mat.ucsb.edu/~g.legrady/academic/courses/09w259/Moretti_graphs.pdf) *New Left Review* 24.
-- Folsom, Ed. (2007). ["Database as Genre: The Epic Transformation of Archives."](http://digitalrhetoricandnetworkedcomposition.web.unc.edu/files/2016/01/folsom-database-as-genre.pdf) *PMLA* 122, no. 5: 1571-1579.
-- Cooper, David, and Ian N. Gregory. (2011). ["Mapping the English Lake District: A Literary GIS"](https://www.jstor.org/stable/23020843) *Transactions of the Institute of British Geographers* 36, no. 1: 89-108.
-- Klein, Lauren F. (2013). "The Image of Absence: Archival Silence, Data Visualization, and James Hemings" DOI: [10.1215/00029831-2367310](https://doi.org/10.1215/00029831-2367310) *American Literature* 85, no. 4: 661-688.
+* Posner, Miriam. (2016). [What’s Next: The Radical, Unrealized Potential of Digital Humanities.](http://dhdebates.gc.cuny.edu/debates/text/54) In M. Gold & L. Klein (Eds.), *Debates in the Digital Humanities*.
+  *  This work argues that the calls for the Digital Humanities to better integrate race and gender into the discipline are not enough, and that the DH community must “dismantle and rebuild” the very framework that underlies the logic of the discipline. She discusses how the basis on which DH research is conducted is inherently based on western principles. Examples include how Google Maps relies on Cartesian geography.
 
+* Ramsay, Stephen. (2010). [The Hermeneutics of Screwing Around; or What You Do with a Million Books.](https://libraries.uh.edu/wp-content/uploads/Ramsay-The-Hermeneutics-of-Screwing-Around.pdf)
+  *  An essay discussing the issues that stem from the amount of knowledge available to humankind. He concludes that “the ethical obligation of those in the digital humanities is neither to read them all  the books, nor to pretend that you have read them all, but to understand each path through the vast archive as an important moment in the world’s duration—as an invitation to community, relationship, and play.”
+
+* Risam, Roopika. (2016). [Navigating the Global Digital Humanities: Insights from Black Feminism.](http://dhdebates.gc.cuny.edu/debates/text/80) In M. Gold & L. Klein (Eds.), *Debates in the Digital Humanities*.
+  *  An essay discussing the “question of how to navigate a scholarly community that is diverse in geography, language, and participant demographics.” The author clarifies the stakes of theorizing the local-global dimension of digital humanities by looking at “black feminist epistemology and its emphasis on intersectionality as a model for mediating between the universal and the particular and for attending to the tensions between local and global in the digital humanities.” The author also discusses the “challenges of maintaining the threads that cohere the field on a global scale as well as the local specificities that enrich its practices.”
+  
+* Sayers, Jentery. (2018). [Locating Praxis in Digital Studies: Designing Courses for Graduate Students.](https://jentery.github.io/uw/)
+  *  An outline of “what humanities graduate students need in terms of digital knowledge for the future” and a discussion of what a “three-course, cross-disciplinary sequence in the foundations of digital humanities (DH) might look like.”
+  
+* Stanford Literary Lab [Pamphlets.](https://litlab.stanford.edu/pamphlets/)
+  *  An ongoing series of publications relating to "computational criticism."
+
+* Underwood, Ted. (2015, June 4). [Seven Ways Humanists are Using Computers to Understand Text](A blog post that provides an introductory overview of the types of computational analysis.) [blog post]. 
+  *  A blog post that provides an introductory overview of the types of computational analysis.
 
 ## Books:
 
