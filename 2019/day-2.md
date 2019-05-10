@@ -45,7 +45,7 @@ Please look for a DH project that interests you, then:
 
 - DH projects deconstructions: explore source data, people, tools, outputs.
     - Miriam Posner, [How did they make that?](http://miriamposner.com/blog/how-did-they-make-that/) 
-    - DH Commons: [How did they make that? Programming Historian](http://dhcommons.org/journal/issue-1/editorial-sustainability-and-open-peer-review-programming-historian).
+    - Example: DH Commons series [How did they make that? Programming Historian](https://web.archive.org/web/20180713014622/http://dhcommons.org/journal/issue-1/editorial-sustainability-and-open-peer-review-programming-historian).
     - Sustainability? (how many dead projects have you seen?)
 
 ### Resources 
