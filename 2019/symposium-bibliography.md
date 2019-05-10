@@ -64,7 +64,7 @@
 * Stanford Literary Lab [Pamphlets.](https://litlab.stanford.edu/pamphlets/)
   *  An ongoing series of publications relating to "computational criticism."
 
-* Underwood, Ted. (2015, June 4). [Seven Ways Humanists are Using Computers to Understand Text](A blog post that provides an introductory overview of the types of computational analysis.) [blog post]. 
+* Underwood, Ted. (2015, June 4). [Seven Ways Humanists are Using Computers to Understand Text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) [blog post]. 
   *  A blog post that provides an introductory overview of the types of computational analysis.
 
 ## Books:
