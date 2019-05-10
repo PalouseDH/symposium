@@ -16,7 +16,9 @@
 * Christen, Kimberly. (2018) [Relationships not Records: Digital Heritage and the Ethics of Sharing Indigenous Knowledge Online.](http://www.kimchristen.com/wp-content/uploads/2018/05/41christenKimberly.pdf) In J. Sayers  (Eds.), Routledge Companion to Media Studies and Digital Humanities (pp. 403-412). 
   *  An essay discussing the trends in archival work that are becoming normalized as “best practices for handling Indigenous materials in all types of repositories and collecting institutions.” It examines how “new Digital curation practices are "planned, defined, and put into action, as well as what they signal in terms of our academic and ethical values.”
 
-- Ted Underwood, David Bamman, and Sabrina Lee, "The Transformation of Gender in English-Language Fiction," Cultural Analytics Feb. 13, 2018. DOI: [10.7910/DVN/TEGMGI ](http://doi.org/10.22148/16.019). (notice the data set shared for replication)
+* Cooper, David, & Gregory, Ian. (2011). [Mapping the English Lake District: A Literary GIS.](https://www.jstor.org/stable/23020843) Transactions of the Institute of British Geographers 36(1), 89-108.
+  *  An article which looks at the ability of GIS to map the spatial relationships of qualitative data. It focuses on a case study that uses the spatial relationships outlined in two literary works which describe tours of the English Lake district in 1769 and 1802. 
+  
 - Jeffrey M. Binder, ["Alien Reading: Text Mining, Language Standardization, and the Humanities"](http://dhdebates.gc.cuny.edu/debates/text/69) in *Debates in the Digital Humanities* (2016).
 - Stanford Literary Lab [Pamphlets](http://litlab.stanford.edu/pamphlets/). (ongoing series of publications relating to "computational criticism")
 - Gideon Lewis-Kraus, [The Great A.I. Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html) (2016)
