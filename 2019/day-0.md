@@ -13,6 +13,8 @@
 - *Break and chat time*
 - Mukurtu project overview 
 - Icebreaker... [What is Digital Humanities?](https://whatisdigitalhumanities.com/)
+    - [Team Generator](https://palousedh.github.io/symposium/randomteams/)
+    - [Hello Arduino](https://evanwill.github.io/hello-arduino/)
 
 - *Social hour at Alehouse*
 
