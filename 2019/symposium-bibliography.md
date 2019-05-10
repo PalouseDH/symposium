@@ -4,7 +4,7 @@
 
 ## Articles:
 
-* Binder, Jeffrey M. (2016). [Alien Reading: Text Mining, Language Standardization, and the Humanities](http://dhdebates.gc.cuny.edu/debates/text/69). In M. Gold & L. Klein (Eds.), Debates in the Digital Humanities.
+* Binder, Jeffrey M. (2016). [Alien Reading: Text Mining, Language Standardization, and the Humanities](http://dhdebates.gc.cuny.edu/debates/text/69). In M. Gold & L. Klein (Eds.), *Debates in the Digital Humanities*.
   *   An essay which gives a “brief account of the origins of a popular technique for topic modeling, Latent Dirichlet Allocation (LDA), and attempt[s] to situate text mining in a broader history of thinking about language as a way of gesturing toward a fuller understanding of the cultural context surrounding text-mining methods.” The author identifies a “congruity between text mining and the language standardization efforts that began in the seventeenth and eighteenth centuries,” and also argues that “when applied to the study of literary and cultural texts, statistical text-mining methods tend to reinforce conceptions of language and meaning that are, at best, overly dependent on the “literal” definitions of words and, at worst, complicit in the marginalization of nonstandard linguistic conventions and modes of expression.”
   
 * Christen, Kimberly. (2012). [Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness](https://ijoc.org/index.php/ijoc/article/view/1618). International Journal Of Communication, 6(24).
