@@ -48,12 +48,11 @@
 - Tour of MASC
 
 ## DH Discussion Session
------------------------
 
 - Christen, Kimberly. (2018) “Relationships not Records: Digital Heritage and the Ethics of Sharing Indigenous Knowledge Online." in Routledge Companion to Media Studies and Digital Humanities, edited by Jentery Sayers. Routledge: Taylor and Francis,pp. 403-412. (http://www.kimchristen.com/wp-content/uploads/2018/05/41christenKimberly.pdf)
 
 - Christen, Kimberly. (2012) "Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness." International Journal of Communication, Volume 6, 2870-2893. (https://ijoc.org/index.php/ijoc/article/view/1618/828)
 
-
+-----------------------
 
 > Outlines: [0](day-0.md) | [1](day-1.md) | [2](day-2.md) | [3](day-3.md) | [4](day-4.md) | [5](day-5.md)
