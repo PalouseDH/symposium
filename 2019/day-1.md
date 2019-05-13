@@ -14,7 +14,7 @@
 
 9-10
 - [Instructions for obtaining a Guest Wifi Password](https://confluence.esg.wsu.edu/display/KB/WiFi+-+WSU+Guest+Wireless+Using+ClearPass+Authentication)
-- [Palouse DH Mukurtu Site](http://cdsc-wsu.org/2019PalouseDH/)
+- [Palouse DH Mukurtu Site](http://cdsc.libraries.wsu.edu/2019PalouseDH/)
 - Mukurtu CMS Overview and discussion of Mukurtu and Digital Inclusion
 - Mukurtu 3Cs introduction
   - Activity: Mukurtu 3Cs planning
