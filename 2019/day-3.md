@@ -81,13 +81,13 @@ Web Portal](https://plateauportal.libraries.wsu.edu/). See also [TK Labels](http
 
 ## DH Discussion Session
 
--  [Mapping Migration: Beyond the Migrant “Problem”](https://youtu.be/S97u86cy7ug)  – Dr. Roopika Risam 
+[Mapping Migration: Beyond the Migrant “Problem”](https://youtu.be/S97u86cy7ug)  – Dr. Roopika Risam 
 
-- [Torn Apart / Separados](http://xpmethod.plaintext.in/torn-apart/volume/2/index)
+[Torn Apart / Separados](http://xpmethod.plaintext.in/torn-apart/volume/2/index)
 
-- The [*Washington Post*](https://www.washingtonpost.com/graphics/2018/national/migrant-child-shelters/?utm_term=.069a33b10504) article that incorporated Torn Apart / Separados research
+The [*Washington Post*](https://www.washingtonpost.com/graphics/2018/national/migrant-child-shelters/?utm_term=.069a33b10504) article that incorporates Torn Apart / Separados research.
 
-       - Gerhart, A., Karklis, L., Steckelberg, A., Muyskens, J., Rabinowitz, K., Shapiro, L., . . . Davis, A. (2018, June 25). Where are the migrant child facilities? Scattered across America. _Washington Post_. Retrieved May 13, 2019, from https://www.washingtonpost.com/graphics/2018/national/migrant-child-shelters/?utm_term=.069a33b10504    
+Gerhart, A., Karklis, L., Steckelberg, A., Muyskens, J., Rabinowitz, K., Shapiro, L., . . . Davis, A. (2018, June 25). Where are the migrant child facilities? Scattered across America. *Washington Post*. Retrieved May 13, 2019, from https://www.washingtonpost.com/graphics/2018/national/migrant-child-shelters/?utm_term=.069a33b10504
 
 -----------------------
 
