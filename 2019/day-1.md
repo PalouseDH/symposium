@@ -24,7 +24,7 @@
 - 3Cs demo
   - [Slides](https://drive.google.com/open?id=1y38maPoYM38bWyxrtM3dmVftNNkURjjy)
   - Activity: Create 3Cs
-  - [Set your password!](http://cdsc.libraries.wsu.edu/PalouseDH/user/password) (usernames are firstinitiallastname, eg: mwynne)
+  - [Set your password!](http://cdsc.libraries.wsu.edu/2019PalouseDH/user/password) (usernames are firstinitiallastname, eg: mwynne)
   - [Getting Started with Mukurtu CMS](http://support.mukurtu.org/customer/en/portal/articles/2794448-getting-started-with-mukurtu-cms) (includes links in article)
   - [Creating Categories](http://support.mukurtu.org/customer/en/portal/articles/2432734-how-to-create-categories)
   - [Creating Communities](http://support.mukurtu.org/customer/en/portal/articles/2432702-how-to-create-communities)
