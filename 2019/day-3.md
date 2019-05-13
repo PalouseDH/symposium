@@ -83,6 +83,12 @@ Web Portal](https://plateauportal.libraries.wsu.edu/). See also [TK Labels](http
 
 -  [Mapping Migration: Beyond the Migrant “Problem”](https://youtu.be/S97u86cy7ug)  – Dr. Roopika Risam 
 
+- [Torn Apart / Separados](http://xpmethod.plaintext.in/torn-apart/volume/2/index)
+
+- The [*Washington Post*](https://www.washingtonpost.com/graphics/2018/national/migrant-child-shelters/?utm_term=.069a33b10504) article that incorporated Torn Apart / Separados research
+
+       - Gerhart, A., Karklis, L., Steckelberg, A., Muyskens, J., Rabinowitz, K., Shapiro, L., . . . Davis, A. (2018, June 25). Where are the migrant child facilities? Scattered across America. _Washington Post_. Retrieved May 13, 2019, from https://www.washingtonpost.com/graphics/2018/national/migrant-child-shelters/?utm_term=.069a33b10504    
+
 -----------------------
 
 > Outlines: [0](day-0.md) | [1](day-1.md) | [2](day-2.md) | [3](day-3.md) | [4](day-4.md) | [5](day-5.md)
