@@ -29,7 +29,7 @@
     
 - [Story Maps slides](https://docs.google.com/presentation/d/19B5DZQox3AfG03Kz1400QpMIwDdQ9l0hWOHvz912K48/edit?usp=sharing)
 
-- [Story Maps and the Digital Humanities](https://collections.storymaps.esri.com/humanities/)
+- [Story Maps and the Digital Humanities: A collection of Story Maps about history, culture, literature, and the arts](https://collections.storymaps.esri.com/humanities/)
 
 - Examples from presentation:
     - http://wsuniv.maps.arcgis.com/apps/StoryMapBasic/index.html?appid=4fc4c009f5904b6b8510298c8dfad5f9
