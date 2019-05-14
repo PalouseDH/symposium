@@ -13,7 +13,13 @@
 
 ## Morning
 
-- Overview of collections as data
+- Overview of "collections as data"
+    - e.g. [Chronicling America](https://chroniclingamerica.loc.gov/), [Chronam API](https://chroniclingamerica.loc.gov/about/api/), add `&format=json`
+    - e.g. [Aladore](https://archive.org/details/aladorehen00newbrich) on Archive.org (vs. old [archive version](https://web.archive.org/web/20150201010320/https://archive.org/details/aladorehen00newbrich))
+    - [documents as data](http://history-lab.org/images/new-paper-stack.png) (from [History Lab](http://history-lab.org/)), using the lens of "data" to rethink traditional humanities research
+    - "Collections as data" are "readily open to computation", [The Santa Barbara Statement on Collections as Data](https://collectionsasdata.github.io/statement/)
+    - Philosophy for: research questions; collection planning; platform design
+    - [CollectionBuilder-GH](https://github.com/CollectionBuilder/collectionbuilder-gh)
 - [Refine APIs!](https://evanwill.github.io/refine-apis/)
 - *Remember to take Breaks...*
 
