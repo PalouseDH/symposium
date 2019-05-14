@@ -14,17 +14,8 @@
 ## Morning
 
 - Overview of collections as data
-- Introduce APIs:
-    - [Intro](https://evanwill.github.io/hey-api/content/0-intro.html)
-    - [URLs](https://evanwill.github.io/hey-api/content/1-urls.html)
-    - IIIF and Chronam with [GET](https://evanwill.github.io/hey-api/content/2-get.html)
-- *Break*
-- Introduce OpenRefine:
-    - [About Refine](https://evanwill.github.io/clean-your-data/1-about.html)
-    - [Messy data](https://evanwill.github.io/clean-your-data/2-messy.html)
-    - [Install](https://evanwill.github.io/clean-your-data/3-start.html)
-- *Break*
-- OpenRefine + APIs
+- [Refine APIs!](https://evanwill.github.io/refine-apis/)
+- *Remember to take Breaks...*
 
 ## Afternoon
 
