@@ -49,8 +49,9 @@
 ## Afternoon
 
 - Mid-week check in.
-- embedding on the web.
 - Field trip: Photogrammetry field trip and background slide deck [link](https://docs.google.com/presentation/d/1bHFCzyu0HzNXUer02Gh63J6mYxWyRA2pe5MNEEi9tNk/edit?usp=sharing) (time permitting)
+- embedding on the web. {maybe}
+- Software as Artifact 
 
 ### Embedding on the web: hands-on with [Knightlab tools](https://knightlab.northwestern.edu/projects/)
 
