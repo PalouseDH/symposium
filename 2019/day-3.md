@@ -41,6 +41,11 @@
     - https://storymaps.esri.com/stories/2018/bishkek-tour/
     - https://nation.maps.arcgis.com/apps/MapSeries/index.html?appid=829a63a3553048fa8025993a238fad78
 
+
+- Overview of the ["Washington State University Buildings and Landscapes"](http://cdsc.libraries.wsu.edu/scalar/wsu-buildings-landscapes/) project and perspective of using Scalar by Andrew Gillreath-Brown
+    - Andrew will discuss how he used Scalar for his project that combined digital humanities, publishing, and history, which also led to changes in his perceptions of place.
+    - [Andrew's Scalar Project Slides](https://docs.google.com/presentation/d/1seZf7vN19phcSC_mZn-ecu0weLWtEUhhSJ7SbTxlKro/edit?usp=sharing)
+
 ## Afternoon
 
 - Mid-week check in.
