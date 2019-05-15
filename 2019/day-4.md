@@ -11,6 +11,8 @@
 
 ## Morning
 
+Follow along with the day's activities using [Text as Data](https://owikle.github.io/text-as-data/) workshop site
+
 - Overview of text as data
     - Finding and preparing text for analysis
     - Text repositories and OCR
