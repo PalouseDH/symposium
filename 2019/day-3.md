@@ -57,7 +57,7 @@
 - Software as Artifact 
     - Exploring a chosen tool/software/platform using a modified evaluation set from the Software Sustainability Institute
     - [Questions for Exploration](https://docs.google.com/document/d/1tyzgrJCRmMOptFArba19rXkP_9PhyHjGHNPSv6BgkB4/edit?usp=sharing)
-    - There are some example projects and platform below that folks might want to explore
+    - There are some example tools, projects and platforms below that folks might want to explore
 
 
 ### DH Projects 
