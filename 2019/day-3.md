@@ -46,6 +46,7 @@
 - Overview of the ["Washington State University Buildings and Landscapes"](http://scalar.libraries.wsu.edu/wsu-buildings-landscapes/) project and perspective of using Scalar by Andrew Gillreath-Brown
     - Andrew will discuss how he used Scalar for his project that combined digital humanities, publishing, and history, which also led to changes in his perceptions of place.
     - [Andrew's Scalar Project Slides](https://docs.google.com/presentation/d/1seZf7vN19phcSC_mZn-ecu0weLWtEUhhSJ7SbTxlKro/edit?usp=sharing)
+    - Contact Andrew at andrew.d.brown@wsu.edu
 
 ## Afternoon
 
