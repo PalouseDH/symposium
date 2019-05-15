@@ -14,11 +14,11 @@
 - Overview of text as data
     - Finding and preparing text for analysis
         - Text repositories and OCR
-- Text Analysis in Context: Exploring a single text
+- Text Analysis
     - Word frequency and concordance with [Voyant Tools](https://voyant-tools.org/)
     - Visualizing context with [WordTree](https://www.jasondavies.com/wordtree/)
 - *Break*
-- Machine Learning in Context: Exploring a corpus of texts
+- Machine Learning
     - Natural Language Processing [Natural Language Understanding Demo](https://natural-language-understanding-demo.ng.bluemix.net/)
     - Sentiment Analysis with books [Book Visualizations Sandbox](https://observablehq.com/@bmschmidt/book-visualizations-sandbox?htid=pst.000061166424)
 
@@ -32,11 +32,13 @@
     - [Talk to Transformer](https://talktotransformer.com/)
 
 ## DH Discussion Session
+
+**Readings**
 - Ted Underwood, ["Seven Ways Humanists are Using Computers to Understand Text"](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) (2015). (intro overview of types of computational analysis)
 - Ted Underwood and Jordan Sellers, ["How Quickly Do Literary Standards Change?"](https://figshare.com/articles/How_Quickly_Do_Literary_Standards_Change_/1418394). 
     - article explicitly explains the research process, from collecting/selecting data to analysis. Published as a draft with more content, questions, and illustrations than are allowed in a traditional article. Also published traditionally as, Jordan Sellers and Ted Underwood, "The Longue Durée of Literary Prestige", MLQ 77:3 (2016). Additionally, a GitHub repository shares the code necessary to reproduce the analysis, [paceofchange](https://github.com/tedunderwood/paceofchange) (2015).        
 
-### Resources
+
 
 
 -----------------------
