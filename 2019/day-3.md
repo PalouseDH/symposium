@@ -51,7 +51,7 @@
 
 1:00 - 2:00 PM
 - Mid-week check in.
-- Field trip: Photogrammetry field trip and background slide deck [link](https://docs.google.com/presentation/d/1bHFCzyu0HzNXUer02Gh63J6mYxWyRA2pe5MNEEi9tNk/edit?usp=sharing) (time permitting)
+- Field trip: Photogrammetry field trip and background slide deck [link](https://docs.google.com/presentation/d/1wumFTn_dgflo0vkyyBU0K34-XWXVpmdLwSiPN52ia3M/edit?usp=sharing) (time permitting)
 
 2:00 - 3:00 PM
 - Software as Artifact 
