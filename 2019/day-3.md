@@ -5,7 +5,7 @@
 ## Objectives
 
 - explore scholarly publishing platforms
-- photogrammetry and 3D Scanning Intro and Field Trip
+- photogrammetry and 3D Scanning intro and field trip
 - thinking about software as artifact 
 
 ## Outline: 
@@ -16,7 +16,7 @@
 - Web publishing discussion
 - Platform introductions and considerations
 - Scalar hands-on
-    - [https://cdsc.libraries.wsu.edu/scalar/](https://cdsc.libraries.wsu.edu/scalar/)
+    - [https://scalar.libraries.wsu.edu/](https://scalar.libraries.wsu.edu/scalar/)
     - username == email address
     - password == changeme
     
@@ -43,7 +43,7 @@
     - https://nation.maps.arcgis.com/apps/MapSeries/index.html?appid=829a63a3553048fa8025993a238fad78
 
 
-- Overview of the ["Washington State University Buildings and Landscapes"](http://cdsc.libraries.wsu.edu/scalar/wsu-buildings-landscapes/) project and perspective of using Scalar by Andrew Gillreath-Brown
+- Overview of the ["Washington State University Buildings and Landscapes"](http://scalar.libraries.wsu.edu/wsu-buildings-landscapes/) project and perspective of using Scalar by Andrew Gillreath-Brown
     - Andrew will discuss how he used Scalar for his project that combined digital humanities, publishing, and history, which also led to changes in his perceptions of place.
     - [Andrew's Scalar Project Slides](https://docs.google.com/presentation/d/1seZf7vN19phcSC_mZn-ecu0weLWtEUhhSJ7SbTxlKro/edit?usp=sharing)
 
