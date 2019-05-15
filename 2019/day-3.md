@@ -82,6 +82,7 @@
 ### Platform Introductions
 
 - [Omeka](https://omeka.org/) (popular CMS for exhibits and teaching. Classroom example [The History Harvest](http://historyharvest.unl.edu/). See [Educators guide](http://info.omeka.net/omeka-net-help/use-case-educators/), [free hosted version](http://www.omeka.net/))
+- [Prospect](https://prospect.unc.edu/) Data visualization tool from UNC Chapel Hill
 - [WordPress](https://wordpress.org/) (most common CMS in the world, runs 30%+ of the web. Powerful web-based admin interface, user authentication, media management, comments. [Free hosted version](https://wordpress.com/). Profile example [Adam Sowards](http://adamsowards.net/))
 - [Drupal](https://www.drupal.org/) (powerful CMS, powers other platforms such as Mukurtu and [Islandora](https://islandora.ca/). See Quinn Dombrowski, [*Drupal for Humanists*](http://drupal.forhumanists.org/))
 - GH-Pages (simple, free static hosting. Higher learning curve. See [go-go gh-pages](https://evanwill.github.io/go-go-ghpages/). Profile example [Shawn Graham](http://shawngraham.github.io/).)
@@ -90,6 +91,12 @@ Web Portal](https://plateauportal.libraries.wsu.edu/). See also [TK Labels](http
 - [Scalar](http://scalar.usc.edu/scalar/) ("authoring and publishing platform that’s designed to make it easy for authors to write long-form, born-digital scholarship online". David Squires' class project [Social Construction of Media](http://scalar.usc.edu/works/cultures-of-social-media/index))
 - [AtoM](https://www.accesstomemory.org/en/) (archival description based CMS)
 - [CONTENTdm](https://www.oclc.org/en/contentdm.html) (very commonly used digital collections platform)
+
+
+### General List of DH Tools
+
+- [From NYU](https://guides.nyu.edu/dighum/tools)
+- [From UNC Chapel Hill](https://cdh.unc.edu/resources/tools/)
 
 ## DH Discussion Session
 
