@@ -16,7 +16,7 @@
 - Web publishing discussion
 - Platform introductions and considerations
 - Scalar hands-on
-    - [https://scalar.libraries.wsu.edu/](https://scalar.libraries.wsu.edu/scalar/)
+    - [http://scalar.libraries.wsu.edu/](http://scalar.libraries.wsu.edu/)
     - username == email address
     - password == changeme
     
