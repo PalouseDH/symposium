@@ -5,7 +5,7 @@
 ## Objectives
 
 - explore scholarly publishing platforms
-- photogrammetry and 3D Scanning intro and field trip
+- photogrammetry and 3D scanning intro and field trip
 - thinking about software as artifact 
 
 ## Outline: 
