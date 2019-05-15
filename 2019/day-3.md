@@ -5,7 +5,8 @@
 ## Objectives
 
 - explore scholarly publishing platforms
-- learn about embedding on the web
+- photogrammetry and 3D Scanning Intro and Field Trip
+- thinking about software as artifact 
 
 ## Outline: 
 
