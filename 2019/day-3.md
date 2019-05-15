@@ -48,12 +48,16 @@
 
 ## Afternoon
 
+1:00 - 2:00 PM
 - Mid-week check in.
 - Field trip: Photogrammetry field trip and background slide deck [link](https://docs.google.com/presentation/d/1bHFCzyu0HzNXUer02Gh63J6mYxWyRA2pe5MNEEi9tNk/edit?usp=sharing) (time permitting)
-- embedding on the web. {maybe}
-- Software as Artifact 
 
-### Embedding on the web: hands-on with [Knightlab tools](https://knightlab.northwestern.edu/projects/)
+2:00 - 3:00 PM
+- Software as Artifact 
+    - Exploring a chosen tool/software/platform using a modified evaluation set from the Software Sustainability Institute
+    - [Questions for Exploration](https://docs.google.com/document/d/1tyzgrJCRmMOptFArba19rXkP_9PhyHjGHNPSv6BgkB4/edit?usp=sharing)
+    - There are some example projects and platform below that folks might want to explore
+
 
 ### DH Projects 
 
@@ -66,7 +70,7 @@
 - [Republic of Letters](http://republicofletters.stanford.edu/)
 
 ### Basic Web-based tools
-
+- [Knightlab tools](https://knightlab.northwestern.edu/projects/)
 - [TimelineJS](https://timeline.knightlab.com/) (simple timeline connected to Google Sheets)
 - [StoryMapJS](https://storymap.knightlab.com/) (basic slideshow connected to a map, set up using a web based editor) [advanced setup](https://storymap.knightlab.com/advanced/)
 - [Timemapper](http://timemapper.okfnlabs.org/) (TimelineJS with a map)
