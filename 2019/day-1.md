@@ -14,7 +14,7 @@
 
 9-10
 - [Instructions for obtaining a Guest Wifi Password](https://confluence.esg.wsu.edu/display/KB/WiFi+-+WSU+Guest+Wireless+Using+ClearPass+Authentication)
-- [Palouse DH Mukurtu Site](http://cdsc-wsu.org/2019PalouseDH/)
+- [Palouse DH Mukurtu Site](http://cdsc.libraries.wsu.edu/2019PalouseDH/)
 - Mukurtu CMS Overview and discussion of Mukurtu and Digital Inclusion
 - Mukurtu 3Cs introduction
   - Activity: Mukurtu 3Cs planning
@@ -24,7 +24,7 @@
 - 3Cs demo
   - [Slides](https://drive.google.com/open?id=1y38maPoYM38bWyxrtM3dmVftNNkURjjy)
   - Activity: Create 3Cs
-  - [Set your password!](http://cdsc.libraries.wsu.edu/PalouseDH/user/password) (usernames are firstinitiallastname, eg: mwynne)
+  - [Set your password!](http://cdsc.libraries.wsu.edu/2019PalouseDH/user/password) (usernames are first name / last name, eg: alex.merrill)
   - [Getting Started with Mukurtu CMS](http://support.mukurtu.org/customer/en/portal/articles/2794448-getting-started-with-mukurtu-cms) (includes links in article)
   - [Creating Categories](http://support.mukurtu.org/customer/en/portal/articles/2432734-how-to-create-categories)
   - [Creating Communities](http://support.mukurtu.org/customer/en/portal/articles/2432702-how-to-create-communities)

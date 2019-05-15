@@ -83,7 +83,9 @@
   
 * Graham, S., Milligan, I., & Weingart, S. (2015). [*Exploring Big Historical Data: The Historian's Macroscope.*](http://www.themacroscope.org/2.0/) London: Imperial College Press.
   *   A book available for purchase. An original final draft of the book is available online [here,](http://www.themacroscope.org/?page_id=584) while [this website](http://www.themacroscope.org/2.0/) contains links to sample data and code downloads.
-  
+
+* Gold, Matthew, & Klein, Lauren (Eds.). (2019). [*Debates in the Digital Humanities 2019.*](https://www.upress.umn.edu/book-division/books/debates-in-the-digital-humanities-2019) Minnesota: Minnesota University Press.
+
 * Gold, Matthew, & Klein, Lauren (Eds.). (2016). [*Debates in the Digital Humanities.*](http://dhdebates.gc.cuny.edu/) Minnesota: Minnesota University Press.
   *  The open-access edition of Debates in the Digital Humanities, a “hybrid print/digital publication stream that explores debates in the field as they emerge.”
   
