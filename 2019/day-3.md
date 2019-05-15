@@ -102,7 +102,7 @@ Web Portal](https://plateauportal.libraries.wsu.edu/). See also [TK Labels](http
 
 * [Mapping Migration: Beyond the Migrant “Problem”](https://youtu.be/S97u86cy7ug)  – Dr. Roopika Risam 
 
-List of visualizations Dr. Risam referencedL
+List of visualizations referenced by Dr. Risam
 
 - [The Atlantic Slave Trade in Two Minutes](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html)
 - [Crossing the Mediterranean Sea by Boat](https://crossing-the-med-map.warwick.ac.uk/rome)
