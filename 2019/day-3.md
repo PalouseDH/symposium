@@ -102,6 +102,14 @@ Web Portal](https://plateauportal.libraries.wsu.edu/). See also [TK Labels](http
 
 * [Mapping Migration: Beyond the Migrant “Problem”](https://youtu.be/S97u86cy7ug)  – Dr. Roopika Risam 
 
+List of visualizations Dr. Risam referencedL
+
+- [Crossing the Mediterranean Sea by Boat](https://crossing-the-med-map.warwick.ac.uk/rome)
+- [The flow towards Europe](https://www.lucify.com/the-flow-towards-europe/)
+- [Missing migrants](https://missingmigrants.iom.int/)
+- [Refugees by Mediteranean Sea - Create Lab at Carnegie Mellon](https://explorables.cmucreatelab.org/unreleased/sabbasi/refugees/)
+
+
 * [Torn Apart / Separados](http://xpmethod.plaintext.in/torn-apart/volume/2/index)
 
 * The [*Washington Post*](https://www.washingtonpost.com/graphics/2018/national/migrant-child-shelters/?utm_term=.069a33b10504) piece that incorporates Torn Apart / Separados research
