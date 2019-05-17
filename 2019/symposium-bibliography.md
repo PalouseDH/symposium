@@ -188,7 +188,7 @@
 - Shawn Graham, Neha Gupta, Jolene Smith, Andreas Angourakis, Michael Carter, & Beth Compton, [Open Digital Archaeology Textbook (ODATE)](https://o-date.github.io/)
 - Miriam Posner, [Introduction to Digital Humanities](http://miriamposner.com/classes/dh101f17/). (recent [blog post reflections](http://miriamposner.com/blog/scaling-up-dh101/))
 - Shawn Graham, Crafting Digital History, [course workbook](http://workbook.craftingdigitalhistory.ca/), [repository](https://github.com/shawngraham/hist3907o), and [organization](https://github.com/craftingdigitalhistory).
-- Sean Butterfield and Evan, [Inquiry-Based Music Theory](https://github.com/smbutterfield/ibmt17-18)
+- Sean Butterfield, Miranda Wilson, and Evan, [Integrated Musicianship](https://intmus.github.io/)
 - [Open Access Companion to the Canterbury Tales](https://opencanterburytales.dsl.lsu.edu/)
 - Chris Bail, [Text as Data](https://cbail.github.io/textasdata/Text_as_Data.html).
 - Moacir P. de Sá Pereira, [The JavaScripting English Major](https://the-javascripting-english-major.org)
