@@ -9,11 +9,15 @@
 # Outline
 
 ## Morning
+
 #### Discussion Session
+
 - Gil, Alex. (2015, May 21). [The User, The Learner and the Machines We Make.](http://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/)
 - Posner, Miriam. (2014, March 18). [Commit to DH People, Not DH Projects](http://miriamposner.com/blog/commit-to-dh-people-not-dh-projects/)
 - Sayers, Jentery. (2018). [Locating Praxis in Digital Studies: Designing Courses for Graduate Students.](https://jentery.github.io/uw/)
+
 #### Discuss projects, new ideas/directions
+
 #### Lunch?
 
 -----------------------
